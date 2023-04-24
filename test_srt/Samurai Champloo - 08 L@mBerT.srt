@@ -1,0 +1,305 @@
+<SAMI>
+<BODY>
+<SYNC Start=91782><Time begin="0:01:48.8" end="0:01:53.1" /><clear/><font color="#FFFF00">. ќж» ег жд ° Рж‘« ждж »«“ Шднѕ</font>
+<SYNC Start=100774><Time begin="0:01:57.0" end="0:01:57.9" /><clear/><font color="#FFFF00">. “жѕ »«‘</font>
+<SYNC Start=107780><Time begin="0:02:04.6" end="0:02:07.6" /><clear/><font color="#FFFF00">. ќж»е ° «нд  нШе —ж н«ѕ жд »«‘е</font>
+<SYNC Start=110780><Time begin="0:02:07.6" end="0:02:10.1" /><clear/><font color="#FFFF00">. гд Ш«—«нн гнШдг Ше »ёне дгн ждд</font>
+<SYNC Start=113779><Time begin="0:02:10.5" end="0:02:15.1" /><clear/><font color="#FFFF00">. «жд«нн Ше дгнждд гнРд ° гд г«б «нд "“г«д " дн” г</font>
+<SYNC Start=118778><Time begin="0:02:15.4" end="0:02:18.7" /><clear/><font color="#FFFF00">. ѕ—” е . гд г«б «нд " “г«д " дн” г</font>
+<SYNC Start=121781><Time begin="0:02:18.7" end="0:02:26.1" /><clear/><font color="#FFFF00">«г« «Ќ г«б« «жд ¬ѕг«  « жё н д«Р«гн ”ж не<br>. ¬ѕг "Рдѕе" »‘е ° г жће‘ дгн‘д</font>
+<SYNC Start=129780><Time begin="0:02:26.6" end="0:02:31.6" /><clear/><font color="#FFFF00"> ж ё—«—е  ж”Ў егНнд ¬ѕгн Ш‘ е »‘н<br>. Б” »н« ¬ќ—‘ —ж »«Ќ«б  гжг Шднг</font>
+<SYNC Start=134782><Time begin="0:02:31.8" end="0:02:32.7" /><clear/><font color="#FFFF00">. ќжѕ ж ¬г«ѕе Шд</font>
+<SYNC Start=138781><Time begin="0:02:35.7" end="0:02:36.5" /><clear/><font color="#FFFF00">! ћнд</font>
+<SYNC Start=141776><Time begin="0:02:38.2" end="0:02:39.6" /><clear/><font color="#FFFF00">. ж-ж«н”«</font>
+<SYNC Start=142780><Time begin="0:02:39.6" end="0:02:41.5" /><clear/><font color="#FFFF00">. «”г гд ћнд дн” </font>
+<SYNC Start=144780><Time begin="0:02:41.6" end="0:02:42.8" /><clear/><font color="#FFFF00">... гд</font>
+<SYNC Start=153774><Time begin="0:02:50.0" end="0:02:51.3" /><clear/><font color="#FFFF00">. Р‘дге</font>
+<SYNC Start=156781><Time begin="0:02:53.7" end="0:02:55.9" /><clear/><font color="#FFFF00">. ѕгб гнќж«ѕ »—г Ќгжг</font>
+<SYNC Start=160778><Time begin="0:02:57.4" end="0:02:59.8" /><clear/><font color="#FFFF00">. Џћ» џбЎн Ш—ѕнг »н—жд «ѕж ° «—ѕж “ѕнг</font>
+<SYNC Start=164774><Time begin="0:03:01.0" end="0:03:04.4" /><clear/><font color="#FFFF00">. ѕ— е— Ќ«б ° »«нѕ »—« Р—Ё д не « «ё Бжб ћж— Шднг</font>
+<SYNC Start=169782><Time begin="0:03:06.8" end="0:03:08.5" /><clear/><font color="#FFFF00">. ¬е ... ѕнРе дгн ждг</font>
+<SYNC Start=171779><Time begin="0:03:08.5" end="0:03:09.8" /><clear/><font color="#FFFF00">. дгн ждг —«е »—г</font>
+<SYNC Start=172782><Time begin="0:03:09.8" end="0:03:11.0" /><clear/><font color="#FFFF00">. ќж‘ «жгѕнѕ</font>
+<SYNC Start=177776><Time begin="0:03:14.2" end="0:03:15.2" /><clear/><font color="#FFFF00">гџ«“е жЋнёе</font>
+<SYNC Start=182776><Time begin="0:03:19.2" end="0:03:21.0" /><clear/><font color="#FFFF00">ѕнѕн ° ё‘дРе ° де њ</font>
+<SYNC Start=184774><Time begin="0:03:21.0" end="0:03:22.2" /><clear/><font color="#FFFF00">.  «“е б«Шн ег е” </font>
+<SYNC Start=185776><Time begin="0:03:22.2" end="0:03:23.9" /><clear/><font color="#FFFF00">. »« «нд дгн ждг »е жд Нн“н »ѕг</font>
+<SYNC Start=187779><Time begin="0:03:24.5" end="0:03:27.9" /><clear/><font color="#FFFF00">. «ндћ« ж «ндћ« ° ’ѕге ѕнѕе ж б«Ш‘ ж— «жгѕе</font>
+<SYNC Start=191783><Time begin="0:03:28.9" end="0:03:30.6" /><clear/><font color="#FFFF00">Нн“ ѕнРе «н дѕ«—нѕ њ</font>
+<SYNC Start=195774><Time begin="0:03:32.0" end="0:03:35.6" /><clear/><font color="#FFFF00">. »»ќ‘нѕ ° жбн ЁёЎ ћд”«н г«—Ш ѕ«— гнРн—нг</font>
+<SYNC Start=198780><Time begin="0:03:35.6" end="0:03:38.1" /><clear/><font color="#FFFF00">. ‘г‘н—н гЋб «нд “н«ѕ дгн «—“е</font>
+<SYNC Start=201775><Time begin="0:03:38.1" end="0:03:39.1" /><clear/><font color="#FFFF00">. »е  Ше РЁ г</font>
+<SYNC Start=202780><Time begin="0:03:39.6" end="0:03:40.8" /><clear/><font color="#FFFF00">Нн“ ѕнРе њ</font>
+<SYNC Start=206783><Time begin="0:03:43.9" end="0:03:47.3" /><clear/><font color="#FFFF00">ЁёЎ не гѕ н Бн‘ «нд н«—ж гн–«—нг‘жд<br>. »Џѕ гн«г «жд« —ж Б” гнРн—нг</font>
+<SYNC Start=210777><Time begin="0:03:47.3" end="0:03:48.1" /><clear/><font color="#FFFF00">. де</font>
+<SYNC Start=211775><Time begin="0:03:48.1" end="0:03:50.6" /><clear/><font color="#FFFF00">. ќ”н” д»«‘</font>
+<SYNC Start=213780><Time begin="0:03:50.6" end="0:03:51.4" /><clear/><font color="#FFFF00">. жб Шд</font>
+<SYNC Start=218776><Time begin="0:03:55.2" end="0:03:56.4" /><clear/><font color="#FFFF00">... «нд</font>
+<SYNC Start=221778><Time begin="0:03:58.4" end="0:04:00.1" /><clear/><font color="#FFFF00">де ... Нн њ</font>
+<SYNC Start=223775><Time begin="0:04:00.1" end="0:04:03.7" /><clear/><font color="#FFFF00">. «нд ќнбн Шгн«»е ° ѕнРе «нд ѕж— ж ж—« Бнѕ« дгн‘е</font>
+<SYNC Start=232774><Time begin="0:04:09.0" end="0:04:11.9" /><clear/><font color="#FFFF00">... ќж» ° Ќ«б« НЎж—н гнќж«нг</font>
+<SYNC Start=236778><Time begin="0:04:13.4" end="0:04:14.4" /><clear/><font color="#FFFF00">Рж‘ гнШднѕ њ</font>
+<SYNC Start=252782><Time begin="0:04:29.8" end="0:04:31.1" /><clear/><font color="#FFFF00">ѕ«ѕ«‘ њ</font>
+<SYNC Start=255775><Time begin="0:04:32.1" end="0:04:33.2" /><clear/><font color="#FFFF00">. «жд “де —ж днР«</font>
+<SYNC Start=256776><Time begin="0:04:33.2" end="0:04:35.8" /><clear/><font color="#FFFF00">. ќж» " »«Шж »«Шж " —ж «ћ—« Шд ‘ндБ«Нн</font>
+<SYNC Start=258782><Time begin="0:04:35.8" end="0:04:37.0" /><clear/><font color="#FFFF00">. Ёегнѕг</font>
+<SYNC Start=264783><Time begin="0:04:41.9" end="0:04:43.6" /><clear/><font color="#FFFF00">не Рб«»н гнќж«н њ</font>
+<SYNC Start=267780><Time begin="0:04:44.6" end="0:04:47.7" /><clear/><font color="#FFFF00">. ѕ«ѕ«‘г гнќж«ѕ »«е«  Ќ—Ё »“де</font>
+<SYNC Start=270781><Time begin="0:04:47.7" end="0:04:48.7" /><clear/><font color="#FFFF00">Шн њ</font>
+<SYNC Start=273779><Time begin="0:04:50.5" end="0:04:52.1" /><clear/><font color="#FFFF00">гнќж«ѕ гќг —ж »“де њ</font>
+<SYNC Start=275775><Time begin="0:04:52.1" end="0:04:53.1" /><clear/><font color="#FFFF00">. ¬—е ° ѕ—” е</font>
+<SYNC Start=276775><Time begin="0:04:53.1" end="0:04:55.2" /><clear/><font color="#FFFF00">. Б” Н—« ќжѕ‘ днжгѕ</font>
+<SYNC Start=278776><Time begin="0:04:55.2" end="0:04:57.2" /><clear/><font color="#FFFF00">. ѕ«ѕ«‘г ќћ«б не</font>
+<SYNC Start=282776><Time begin="0:04:59.2" end="0:05:00.4" /><clear/><font color="#FFFF00">. де ггджд</font>
+<SYNC Start=288783><Time begin="0:05:05.9" end="0:05:07.0" /><clear/><font color="#FFFF00">... «гг</font>
+<SYNC Start=290774><Time begin="0:05:07.0" end="0:05:10.0" /><clear/><font color="#FFFF00">. де ° де . е— Нёѕ— ег Ше »н«н ё»жб дгнШдг</font>
+<SYNC Start=295775><Time begin="0:05:12.1" end="0:05:14.0" /><clear/><font color="#FFFF00">. Џћ» ѕќ — Шбе ‘ён</font>
+<SYNC Start=297774><Time begin="0:05:14.0" end="0:05:18.7" /><clear/><font color="#FFFF00">. «г« «нд нЏдн «—“‘‘ —ж ѕ«—е</font>
+<SYNC Start=301781><Time begin="0:05:18.7" end="0:05:20.1" /><clear/><font color="#FFFF00">. ”б«г Џ“н“г</font>
+<SYNC Start=303778><Time begin="0:05:20.4" end="0:05:21.2" /><clear/><font color="#FFFF00">... «гг</font>
+<SYNC Start=304776><Time begin="0:05:21.2" end="0:05:22.4" /><clear/><font color="#FFFF00">гд њ</font>
+<SYNC Start=305778><Time begin="0:05:22.4" end="0:05:24.4" /><clear/><font color="#FFFF00">. . гд г—ѕн «г Ше не —ж“н " Рдѕе " гн‘е</font>
+<SYNC Start=307778><Time begin="0:05:24.4" end="0:05:28.7" /><clear/><font color="#FFFF00">." »е — »Рг ° " Рдѕе " де " Рдѕе  — «“ Рдѕе  —нд</font>
+<SYNC Start=312776><Time begin="0:05:29.2" end="0:05:30.7" /><clear/><font color="#FFFF00">... «”гг</font>
+<SYNC Start=315780><Time begin="0:05:32.6" end="0:05:34.8" /><clear/><font color="#FFFF00">. ”«Р«д‘жР«д д«Р«гнНне</font>
+<SYNC Start=318781><Time begin="0:05:35.7" end="0:05:37.2" /><clear/><font color="#FFFF00">НЎж—н «нд н«—ж ќћ«б не њ</font>
+<SYNC Start=320778><Time begin="0:05:37.4" end="0:05:38.7" /><clear/><font color="#FFFF00">! «жгѕ</font>
+<SYNC Start=321781><Time begin="0:05:38.7" end="0:05:40.5" /><clear/><font color="#FFFF00">! «нд ѕЁЏе ќжѕ ќжѕ‘е</font>
+<SYNC Start=323779><Time begin="0:05:40.5" end="0:05:41.3" /><clear/><font color="#FFFF00">. Ќ«б« дж»  где</font>
+<SYNC Start=324782><Time begin="0:05:41.8" end="0:05:45.2" /><clear/><font color="#FFFF00">гд егндћ« гнгждг ° гн«н Ше де њ</font>
+<SYNC Start=328776><Time begin="0:05:45.2" end="0:05:47.3" /><clear/><font color="#FFFF00">. гд ў—  гнгждг ° ќѕ«Ёў</font>
+<SYNC Start=331782><Time begin="0:05:48.8" end="0:05:54.1" /><clear/><font color="#FFFF00">. «же ° ќж‘Рб »жѕд «нд ѕ—ѕ”—е« —ж ег ѕ«—е</font>
+<SYNC Start=337775><Time begin="0:05:54.1" end="0:05:59.1" /><clear/><font color="#FFFF00">гнќж«д гќг —ж »“дд ° ќж» ° ќнбн »ѕе Ше<br>. ‘г«е« дгнЁегнѕ Нн гнРг</font>
+<SYNC Start=342775><Time begin="0:05:59.1" end="0:06:00.0" /><clear/><font color="#FFFF00">. нШн ѕнРе</font>
+<SYNC Start=346777><Time begin="0:06:03.3" end="0:06:05.0" /><clear/><font color="#FFFF00">. «“ Ў—Ё «жд н«—ж Ше «ждћ«”</font>
+<SYNC Start=353777><Time begin="0:06:10.3" end="0:06:13.0" /><clear/><font color="#FFFF00">. е«д ... Не “д ё‘дРн</font>
+<SYNC Start=360774><Time begin="0:06:17.0" end="0:06:19.1" /><clear/><font color="#FFFF00">. »ѕжд ‘Ш ќжѕ‘е</font>
+<SYNC Start=362775><Time begin="0:06:19.1" end="0:06:20.5" /><clear/><font color="#FFFF00">. »ѕ — «“ ¬»</font>
+<SYNC Start=363779><Time begin="0:06:20.5" end="0:06:22.5" /><clear/><font color="#FFFF00">ЁШ гнШдн гд Шнг њ</font>
+<SYNC Start=365781><Time begin="0:06:22.7" end="0:06:24.0" /><clear/><font color="#FFFF00"> ж Шн е” н њ</font>
+<SYNC Start=367779><Time begin="0:06:24.5" end="0:06:27.9" /><clear/><font color="#FFFF00">»жѕж Шн»« нЏдн дн‘ «дРж— . »е ќ«Ў— ѕдѕ«де«н<br>. Ќ”«”‘ »е «бШб «нд бё» —ж Р—Ё е</font>
+<SYNC Start=367779><Time begin="0:06:24.5" end="0:06:27.9" /><clear/><font color="#FFFF00">." г—ѕг »ег гнРд " »жѕж Шн»«</font>
+<SYNC Start=371777><Time begin="0:06:28.3" end="0:06:29.6" /><clear/><font color="#FFFF00">»жѕж ... њ</font>
+<SYNC Start=377782><Time begin="0:06:34.8" end="0:06:36.2" /><clear/><font color="#FFFF00">. ггджд</font>
+<SYNC Start=379776><Time begin="0:06:36.2" end="0:06:39.4" /><clear/><font color="#FFFF00">. ѕж « г—ѕ ќж‘  нБ д»«нѕ  де«нн ‘—«» »ќж—д</font>
+<SYNC Start=383775><Time begin="0:06:40.1" end="0:06:43.1" /><clear/><font color="#FFFF00">. »—« «ндШе »е жд ќж‘ »Р–—е ° »е не Рб дн«“ ѕ«—нѕ</font>
+<SYNC Start=386775><Time begin="0:06:43.1" end="0:06:44.1" /><clear/><font color="#FFFF00">... «гг</font>
+<SYNC Start=387775><Time begin="0:06:44.1" end="0:06:48.3" /><clear/><font color="#FFFF00">° ѕ«ѕ«д ° ж Р—Ё д . жё н »нд‘жд  Џ«ѕб »—ё—«— »‘е</font>
+<SYNC Start=391777><Time begin="0:06:48.3" end="0:06:50.9" /><clear/><font color="#FFFF00">. г—ѕ ж “д »е ег ж’б гн‘д</font>
+<SYNC Start=394778><Time begin="0:06:51.4" end="0:06:53.1" /><clear/><font color="#FFFF00">дгнќж«нѕ »«е«г ‘—«» »дж‘нѕ њ</font>
+<SYNC Start=396778><Time begin="0:06:53.4" end="0:06:56.2" /><clear/><font color="#FFFF00">. не ћ«н »е —</font>
+<SYNC Start=399782><Time begin="0:06:56.8" end="0:06:59.4" /><clear/><font color="#FFFF00">. ќж» ° Џн»н дѕ«—е</font>
+<SYNC Start=402778><Time begin="0:06:59.4" end="0:07:00.4" /><clear/><font color="#FFFF00">!ѕ«—н Нн гнРн њ</font>
+<SYNC Start=403779><Time begin="0:07:00.5" end="0:07:02.9" /><clear/><font color="#FFFF00">! ћнд °  ж не Нн“н »Рж</font>
+<SYNC Start=407776><Time begin="0:07:04.2" end="0:07:07.8" /><clear/><font color="#FFFF00">. не гџ«“е »« ‘—«»е«н  жБ гн‘д«”г</font>
+<SYNC Start=410782><Time begin="0:07:07.8" end="0:07:09.8" /><clear/><font color="#FFFF00">. «ждћ« ѕнРе г“«Ќг дѕ«—нг</font>
+<SYNC Start=412782><Time begin="0:07:09.8" end="0:07:10.2" /><clear/><font color="#FFFF00">! ен<br>. «ждћ« ѕнРе г“«Ќг дѕ«—нг</font>
+<SYNC Start=413776><Time begin="0:07:10.2" end="0:07:10.9" /><clear/><font color="#FFFF00">! ен</font>
+<SYNC Start=414780><Time begin="0:07:11.6" end="0:07:14.9" /><clear/><font color="#FFFF00">° ѕќ —«н ћжжд егндћж—н ё‘дРд</font>
+<SYNC Start=417783><Time begin="0:07:14.9" end="0:07:19.9" /><clear/><font color="#FFFF00">. «г« ЁёЎ не “д Ше ”д‘ »«б« —е »е гЏд«н ж«ёЏн ё‘дРе</font>
+<SYNC Start=423775><Time begin="0:07:20.1" end="0:07:22.2" /><clear/><font color="#FFFF00">. »“д »—нг</font>
+<SYNC Start=426774><Time begin="0:07:23.0" end="0:07:25.8" /><clear/><font color="#FFFF00">. «же ° г—ѕ ќж‘  нБ »жѕд ег ѕ—ѕ”—«н ќжѕ‘ж ѕ«—е</font>
+<SYNC Start=428782><Time begin="0:07:25.8" end="0:07:27.9" /><clear/><font color="#FFFF00">. «Ќгё« . е— Ш«—н гнќж«нѕ »Шднѕ</font>
+<SYNC Start=433781><Time begin="0:07:30.7" end="0:07:32.4" /><clear/><font color="#FFFF00">! гд ег гн—г</font>
+<SYNC Start=452781><Time begin="0:07:49.7" end="0:07:51.0" /><clear/><font color="#FFFF00">ќжѕ н ° гРе де њ</font>
+<SYNC Start=454774><Time begin="0:07:51.0" end="0:07:55.8" /><clear/><font color="#FFFF00">«ждн Ше ѕед гдЎёе —ж ”—жн” Ш—ѕе<br>.  ж ”«гж—«ннц ‘Ш«—Ннц ЏндШн</font>
+<SYNC Start=461777><Time begin="0:07:58.3" end="0:07:59.7" /><clear/><font color="#FFFF00">не ѕ«г ° е«д њ</font>
+<SYNC Start=463777><Time begin="0:08:00.3" end="0:08:04.0" /><clear/><font color="#FFFF00">... «г« «жд« ж«ёЏн дн” д</font>
+<SYNC Start=467774><Time begin="0:08:04.0" end="0:08:06.0" /><clear/><font color="#FFFF00">! ЏндШ  ж  ёб»не</font>
+<SYNC Start=471774><Time begin="0:08:08.0" end="0:08:11.0" /><clear/><font color="#FFFF00">. Ше нЏдн  ж ћнд дн” н</font>
+<SYNC Start=474778><Time begin="0:08:11.4" end="0:08:17.0" /><clear/><font color="#FFFF00">¬—е гд ¬ѕгнг Ше «“ «жд«нн Ше ѕж— ж ж—г е” д<br>. «” Ё«ѕе гнШде  « »«б« — »—е</font>
+<SYNC Start=480778><Time begin="0:08:17.4" end="0:08:21.0" /><clear/><font color="#FFFF00">. «г« гд ж«—ѕ г»«—“е е«н «бШн дгн‘г</font>
+<SYNC Start=484774><Time begin="0:08:21.0" end="0:08:22.4" /><clear/><font color="#FFFF00">. Ќ—Ё “ѕд »”е</font>
+<SYNC Start=486779><Time begin="0:08:23.5" end="0:08:25.5" /><clear/><font color="#FFFF00">.  д»не  гнШдг</font>
+<SYNC Start=490782><Time begin="0:08:27.8" end="0:08:28.4" /><clear/><font color="#FFFF00">. “жѕ »«‘</font>
+<SYNC Start=491778><Time begin="0:08:28.4" end="0:08:29.5" /><clear/><font color="#FFFF00">. »«‘е</font>
+<SYNC Start=497781><Time begin="0:08:34.7" end="0:08:37.0" /><clear/><font color="#FFFF00">. ѕ— е— Ќ«б ° »«нѕ «нд Ш«— —ж »Шдг</font>
+<SYNC Start=500777><Time begin="0:08:37.3" end="0:08:38.5" /><clear/><font color="#FFFF00">! »гн—</font>
+<SYNC Start=504781><Time begin="0:08:41.7" end="0:08:42.4" /><clear/><font color="#FFFF00">! ѕ«ѕ«‘</font>
+<SYNC Start=515780><Time begin="0:08:52.6" end="0:08:54.1" /><clear/><font color="#FFFF00">. егждћж—н Ше «д ў«—‘ж ѕ«‘ г ° ѕ«ѕ«‘</font>
+<SYNC Start=517775><Time begin="0:08:54.1" end="0:08:55.8" /><clear/><font color="#FFFF00">...  ШднШ Ш‘ д еж«нн</font>
+<SYNC Start=519779><Time begin="0:08:56.5" end="0:08:58.6" /><clear/><font color="#FFFF00">. «гг ... ‘г‘н— Б—дѕе</font>
+<SYNC Start=521783><Time begin="0:08:58.9" end="0:09:00.8" /><clear/><font color="#FFFF00">. еге Нн“ Ќ”«» ‘ѕе »жѕ</font>
+<SYNC Start=524778><Time begin="0:09:01.4" end="0:09:03.7" /><clear/><font color="#FFFF00">. «г« не г»«—“е «бШн »жѕ</font>
+<SYNC Start=528775><Time begin="0:09:05.1" end="0:09:06.7" /><clear/><font color="#FFFF00">. Б” «жгѕн</font>
+<SYNC Start=532776><Time begin="0:09:09.2" end="0:09:11.9" /><clear/><font color="#FFFF00">гнќж«н »—нг »е  Бе н Рн—жБд њ</font>
+<SYNC Start=542774><Time begin="0:09:19.0" end="0:09:19.9" /><clear/><font color="#FFFF00">«нд Нне њ</font>
+<SYNC Start=543782><Time begin="0:09:20.8" end="0:09:21.9" /><clear/><font color="#FFFF00">. —дР‘ ё—г“ —ж‘де</font>
+<SYNC Start=545777><Time begin="0:09:22.3" end="0:09:23.6" /><clear/><font color="#FFFF00">. «нд‘—«» «дРж—е</font>
+<SYNC Start=547774><Time begin="0:09:24.0" end="0:09:26.5" /><clear/><font color="#FFFF00">. ‘—«»н Ше «“ «ждж— ¬» «жгѕе</font>
+<SYNC Start=554779><Time begin="0:09:31.5" end="0:09:32.7" /><clear/><font color="#FFFF00">. ќж‘г“”</font>
+<SYNC Start=556782><Time begin="0:09:33.8" end="0:09:37.2" /><clear/><font color="#FFFF00">. ‘—«» ё‘дР ° »—«н ѕед ё‘дР</font>
+<SYNC Start=560781><Time begin="0:09:37.7" end="0:09:42.3" /><clear/><font color="#FFFF00">«Ре гнќж«н Н‘г«н ё‘дР ѕ«‘ е »«‘н<br>. »е Нн“«н ё‘дР днР« Шд</font>
+<SYNC Start=566777><Time begin="0:09:43.3" end="0:09:45.8" /><clear/><font color="#FFFF00">. гег дн”  Ндѕ ѕЁЏе ’ѕге »»ндн</font>
+<SYNC Start=568782><Time begin="0:09:45.8" end="0:09:49.2" /><clear/><font color="#FFFF00">. ѕ— Џ‘ё ќж‘н «н »н‘ — «“ ѕ—ѕе</font>
+<SYNC Start=572776><Time begin="0:09:49.2" end="0:09:52.8" /><clear/><font color="#FFFF00">. ж «жд бЌўе «н Ше гн ждн ќжѕ  »«‘н</font>
+<SYNC Start=575782><Time begin="0:09:52.8" end="0:09:55.8" /><clear/><font color="#FFFF00">. не “д гн жде ‘—«»  бќ —ж »—«  ‘н—нд Шде</font>
+<SYNC Start=581778><Time begin="0:09:58.4" end="0:10:01.2" /><clear/><font color="#FFFF00">. «нд «ж«ќ— ° ѕд»«б не дЁ— Ше Р—г »«‘е гнР‘ г</font>
+<SYNC Start=584776><Time begin="0:10:01.2" end="0:10:06.7" /><clear/><font color="#FFFF00">«г« не ё«дждн ѕ«—г Ше ЁёЎ »« «жд«нн Ше »е — «“<br>. ќжѕг ‘—«» »дж‘д »н—жд гн—г</font>
+<SYNC Start=590777><Time begin="0:10:07.3" end="0:10:09.0" /><clear/><font color="#FFFF00">. нШн ѕнРе гнќж—г</font>
+<SYNC Start=592774><Time begin="0:10:09.0" end="0:10:10.2" /><clear/><font color="#FFFF00">. гд ег</font>
+<SYNC Start=594780><Time begin="0:10:11.6" end="0:10:13.2" /><clear/><font color="#FFFF00">. «же °  ж ќж» гнќж—н</font>
+<SYNC Start=597775><Time begin="0:10:14.1" end="0:10:16.3" /><clear/><font color="#FFFF00">. «нд Ў—Ё ќнбн ¬—жге</font>
+<SYNC Start=600774><Time begin="0:10:17.0" end="0:10:19.4" /><clear/><font color="#FFFF00">. «жд ег‘ егндЎж—не</font>
+<SYNC Start=605780><Time begin="0:10:22.6" end="0:10:26.6" /><clear/><font color="#FFFF00">. «г‘» дгнќж«г »—г ќжде</font>
+<SYNC Start=625780><Time begin="0:10:42.6" end="0:10:49.6" /><clear/><font color="#FFFF00">Sabzchidori & Sfmking Ш«—н «“<br>http://forums.animworld.net</font>
+<SYNC Start=634778><Time begin="0:10:51.4" end="0:10:54.0" /><clear/><font color="#FFFF00">Ёегнѕн Н—« ¬ж—ѕг  «ндћ« њ</font>
+<SYNC Start=637774><Time begin="0:10:54.0" end="0:10:56.6" /><clear/><font color="#FFFF00">. «ндћ« гЌжЎе ¬ндѕе где</font>
+<SYNC Start=639780><Time begin="0:10:56.6" end="0:11:02.1" /><clear/><font color="#FFFF00">. ж «жд ќжде ¬ндѕг ° ёбЏе «ѕж</font>
+<SYNC Start=645775><Time begin="0:11:02.1" end="0:11:06.7" /><clear/><font color="#FFFF00">Б” гнќж«н ќ«дг ёб»г »‘н њ</font>
+<SYNC Start=649781><Time begin="0:11:06.7" end="0:11:07.8" /><clear/><font color="#FFFF00">... «гг</font>
+<SYNC Start=651780><Time begin="0:11:08.6" end="0:11:10.2" /><clear/><font color="#FFFF00">... ж«ёЏ« дгн Ёегг</font>
+<SYNC Start=653776><Time begin="0:11:10.2" end="0:11:12.3" /><clear/><font color="#FFFF00">° «Ре гнќж«н ѕ—»«—е гд »ѕждн</font>
+<SYNC Start=657776><Time begin="0:11:14.2" end="0:11:15.6" /><clear/><font color="#FFFF00">. »«нѕ »е «жд днР« Шдн</font>
+<SYNC Start=663774><Time begin="0:11:20.0" end="0:11:23.0" /><clear/><font color="#FFFF00">. «жд ”—Р–‘  ќжѕге Ше «б«д ѕ«—г гнджн”г</font>
+<SYNC Start=666774><Time begin="0:11:23.0" end="0:11:27.0" /><clear/><font color="#FFFF00">." «”г‘ж Р–«‘ г " —«е Рдѕе ‘ѕд</font>
+<SYNC Start=670780><Time begin="0:11:27.6" end="0:11:35.7" /><clear/><font color="#FFFF00">. ¬—е «ждћ« »—д«ге е«н Р–‘ е ° Ќ«б ж Ќ н ¬ндѕгж дж‘ е ‘ѕе</font>
+<SYNC Start=678781><Time begin="0:11:35.7" end="0:11:41.2" /><clear/><font color="#FFFF00">. Б” ° е— Ш«—н »Шдн ° ѕжгн ж ”жгн »е ѕ—ѕ дгнќж—е</font>
+<SYNC Start=685775><Time begin="0:11:42.1" end="0:11:46.9" /><clear/><font color="#FFFF00">»«нѕ Рдѕе  —нд ¬ѕг Ш‘ж— »‘г ж «”г д«Р«гн ”ж<br>. —ж »е  гжг Ш‘ж— »—”ждг</font>
+<SYNC Start=690780><Time begin="0:11:47.6" end="0:11:50.8" /><clear/><font color="#FFFF00"> ж «нд Ш‘ж— Шн Рдѕе  —нде њ</font>
+<SYNC Start=693782><Time begin="0:11:50.8" end="0:11:55.0" /><clear/><font color="#FFFF00">. Ш«ж« жШж  жШжР«ж« ° Ше егжд ‘жР«д »«‘е</font>
+<SYNC Start=698780><Time begin="0:11:55.6" end="0:12:01.3" /><clear/><font color="#FFFF00">( . ¬Шн : «”г ”«»ё ен—ж‘нг« )</font>
+<SYNC Start=698780><Time begin="0:11:55.6" end="0:12:01.3" /><clear/><font color="#FFFF00">»е егнд ќ«Ў— ‘е— ¬Шн —ж »« ¬ќ—нд<br>. Ш‘ н »е гё’ѕ «ѕж  —Ш Ш—ѕг</font>
+<SYNC Start=705780><Time begin="0:12:02.6" end="0:12:07.2" /><clear/><font color="#FFFF00">° ж ”— —«ег ° «”» нж«— " ¬»«—д»ж " —ж  ж ”«Ќб “ѕг</font>
+<SYNC Start=710776><Time begin="0:12:07.2" end="0:12:11.6" /><clear/><font color="#FFFF00">. ж " Ш«Р«—«‘нц " Џж÷н —ж ° Ше »«ЏЋ ‘ѕ г‘еж— »‘г</font>
+<SYNC Start=715775><Time begin="0:12:12.1" end="0:12:16.9" /><clear/><font color="#FFFF00">. ¬—е ° гд  н — нШ «нд Ш‘ж— гн‘г</font>
+<SYNC Start=719783><Time begin="0:12:16.9" end="0:12:19.0" /><clear/><font color="#FFFF00">... ж «б е ° еѕЁ де«нн гд</font>
+<SYNC Start=722780><Time begin="0:12:19.6" end="0:12:21.6" /><clear/><font color="#FFFF00">! »« гд »ћдР °  жШжР«ж«</font>
+<SYNC Start=726783><Time begin="0:12:23.9" end="0:12:25.6" /><clear/><font color="#FFFF00">. ѕн— —”нѕг</font>
+<SYNC Start=729779><Time begin="0:12:26.5" end="0:12:29.1" /><clear/><font color="#FFFF00">... ЁШ Ш—ѕг «ждћ« ёбЏе н «ѕж∆е ж Џ’»«дн »жѕг ° «г«</font>
+<SYNC Start=733783><Time begin="0:12:30.9" end="0:12:33.0" /><clear/><font color="#FFFF00">. ен ... «ндћ« ёбЏе «ж“«Ш«”</font>
+<SYNC Start=736774><Time begin="0:12:33.0" end="0:12:35.0" /><clear/><font color="#FFFF00">. ¬—е ... «жд ег « Ё«ё «Ё «ѕ</font>
+<SYNC Start=738781><Time begin="0:12:35.7" end="0:12:40.1" /><clear/><font color="#FFFF00">. «г« »е ќ«Ў— «жд ° «жбнд Бн—ж «г —ж ѕнѕг ° «жРж—«</font>
+<SYNC Start=744781><Time begin="0:12:41.7" end="0:12:43.0" /><clear/><font color="#FFFF00">° «жд “г«д</font>
+<SYNC Start=746774><Time begin="0:12:43.0" end="0:12:49.1" /><clear/><font color="#FFFF00">‘«нЏе «н ѕ—»«—е г—ѕн Ше  ж е“«—  « г»«—“е<br>. ‘Ш”  дќж—ѕе »жѕ ° ‘днѕг</font>
+<SYNC Start=752775><Time begin="0:12:49.1" end="0:12:51.1" /><clear/><font color="#FFFF00">... «”г «жд г—ѕ</font>
+<SYNC Start=754781><Time begin="0:12:51.7" end="0:12:53.6" /><clear/><font color="#FFFF00">! г«—н« «д‘н—ж »жѕ</font>
+<SYNC Start=757777><Time begin="0:12:54.3" end="0:12:56.4" /><clear/><font color="#FFFF00">° »«Ќ«б гн‘е</font>
+<SYNC Start=759778><Time begin="0:12:56.4" end="0:13:02.9" /><clear/><font color="#FFFF00">гн ждг «д‘н—ж —ж »“дг ж »е «Ё”«де е“«— г»«—“е<br>. »н ‘Ш”  «жд ќ« ге »ѕг ж г‘еж— »‘г</font>
+<SYNC Start=770779><Time begin="0:13:07.5" end="0:13:09.3" /><clear/><font color="#FFFF00">! гдж »Рн— Ше «жгѕг ° Ш«—н«</font>
+<SYNC Start=775780><Time begin="0:13:12.6" end="0:13:14.5" /><clear/><font color="#FFFF00">. ќнбн ѕн— —”нѕг</font>
+<SYNC Start=779775><Time begin="0:13:16.1" end="0:13:20.3" /><clear/><font color="#FFFF00">. дё‘е »н дё’г ‘Ш”  ќж—ѕ</font>
+<SYNC Start=783782><Time begin="0:13:20.8" end="0:13:25.4" /><clear/><font color="#FFFF00">( г«—н« «д‘н—ж )</font><br><Time begin="0:13:20.8" end="0:13:25.4" /><clear/><font color="#FFFF00">. «“ нШн «“ ‘«Р—ѕ«‘ Ёегнѕг Ше «д‘н—ж Ш‘ е ‘ѕе</font>
+<SYNC Start=789781><Time begin="0:13:26.7" end="0:13:31.8" /><clear/><font color="#FFFF00">Ш”н Ше «д‘н—жн ‘Ш”  д«Б–н— —ж Ш‘ е<br>. »жѕ ° »е —нд ‘«Р—ѕ‘ »жѕ</font>
+<SYNC Start=795778><Time begin="0:13:32.4" end="0:13:38.9" /><clear/><font color="#FFFF00">д«г—ѕне Ше не дЁ— «” «ѕ Ш‘ Џдж«д ‘Ш”  д«Б–н— —ж<br>. ѕ«‘ е »«‘е</font>
+<SYNC Start=802779><Time begin="0:13:39.5" end="0:13:44.6" /><clear/><font color="#FFFF00">. »Џѕ «“ «жд ° не еѕЁ «’бн  ж “дѕРнд«ге «г дж‘ г</font>
+<SYNC Start=808775><Time begin="0:13:45.1" end="0:13:46.4" /><clear/><font color="#FFFF00">... ¬—е ° «жд</font>
+<SYNC Start=811781><Time begin="0:13:48.7" end="0:13:52.7" /><clear/><font color="#FFFF00">° ѕ— е“ Ќ«б ° жё н «жд ‘«Р—ѕ д«ѕжд —ж »Ш‘г</font>
+<SYNC Start=815781><Time begin="0:13:52.7" end="0:13:56.2" /><clear/><font color="#FFFF00">. ¬ж«“е «г »е Шб Ш‘ж— гн—”е</font>
+<SYNC Start=820778><Time begin="0:13:57.4" end="0:13:59.0" /><clear/><font color="#FFFF00">! ен ! д«Р«гн ”ж</font>
+<SYNC Start=822780><Time begin="0:13:59.6" end="0:14:03.5" /><clear/><font color="#FFFF00">. ж »Џѕ «“ «ндШе "Рдѕе" ‘ѕг гн ждг еге Нн“ »ѕ”  »н«—г</font>
+<SYNC Start=827775><Time begin="0:14:04.1" end="0:14:08.5" /><clear/><font color="#FFFF00">. "«Ре егНнд Нн“н »Рг ° г—ѕг ггШде »Рд " д«Р«гн ”ж  де«∆е</font>
+<SYNC Start=832774><Time begin="0:14:09.0" end="0:14:11.5" /><clear/><font color="#FFFF00">. «г« ггШде ж«ёЏ«  де« »«‘г</font>
+<SYNC Start=834782><Time begin="0:14:11.8" end="0:14:14.9" /><clear/><font color="#FFFF00">. «г« гд «ѕ«ге гнѕг ж  де« гнгждг</font>
+<SYNC Start=837783><Time begin="0:14:14.9" end="0:14:17.3" /><clear/><font color="#FFFF00">° «Ре ё—«—е  де« »гждг</font>
+<SYNC Start=841775><Time begin="0:14:18.1" end="0:14:20.5" /><clear/><font color="#FFFF00">. гнќж«г «ждћ«  де« »«‘г</font>
+<SYNC Start=844778><Time begin="0:14:21.4" end="0:14:25.4" /><clear/><font color="#FFFF00">. дгнќж«г  ж не ќжде «ћ«—е «н  де« »«‘г</font>
+<SYNC Start=848778><Time begin="0:14:25.4" end="0:14:26.5" /><clear/><font color="#FFFF00">! ѕ«ѕ«‘</font>
+<SYNC Start=849779><Time begin="0:14:26.5" end="0:14:30.0" /><clear/><font color="#FFFF00">. Б” ‘«д”н »е ”«гж—«нн е« Ќгбе гнШдн</font>
+<SYNC Start=853774><Time begin="0:14:30.0" end="0:14:31.5" /><clear/><font color="#FFFF00">! де еге</font>
+<SYNC Start=855774><Time begin="0:14:32.0" end="0:14:37.4" /><clear/><font color="#FFFF00">гнѕждг Ше «нд н«—ж ЏндШн гн“де Ше Ќ н<br>.  ж «ѕж ег Шгн«»е</font>
+<SYNC Start=860781><Time begin="0:14:37.7" end="0:14:40.1" /><clear/><font color="#FFFF00">... «”г «нд н«—ж</font>
+<SYNC Start=863780><Time begin="0:14:40.6" end="0:14:41.8" /><clear/><font color="#FFFF00">. ћнде</font>
+<SYNC Start=866774><Time begin="0:14:43.0" end="0:14:44.5" /><clear/><font color="#FFFF00">. ¬—е ° ћнд</font>
+<SYNC Start=868782><Time begin="0:14:45.8" end="0:14:48.3" /><clear/><font color="#FFFF00">... «гнѕж«—г Бнѕ«‘ Шдн ... «жд</font>
+<SYNC Start=871777><Time begin="0:14:48.3" end="0:14:49.4" /><clear/><font color="#FFFF00">. ћнд</font>
+<SYNC Start=873774><Time begin="0:14:50.0" end="0:14:52.1" /><clear/><font color="#FFFF00">... ¬—е ° ¬—е ° егжд</font>
+<SYNC Start=875775><Time begin="0:14:52.1" end="0:14:53.6" /><clear/><font color="#FFFF00">. ћнд</font>
+<SYNC Start=878775><Time begin="0:14:55.1" end="0:14:58.1" /><clear/><font color="#FFFF00">. ќж» ° ѕнРе ѕн—е ° Б” гн—г ќжде</font>
+<SYNC Start=881778><Time begin="0:14:58.4" end="0:14:59.7" /><clear/><font color="#FFFF00">! »«‘е</font>
+<SYNC Start=882781><Time begin="0:14:59.7" end="0:15:03.1" /><clear/><font color="#FFFF00">! Ё—ѕ« егнд ћ« гд ў— г</font>
+<SYNC Start=886783><Time begin="0:15:03.9" end="0:15:05.4" /><clear/><font color="#FFFF00">Џн»н дѕ«—е егнд ћж—н Р–«‘ н »—е њ</font>
+<SYNC Start=888778><Time begin="0:15:05.4" end="0:15:06.3" /><clear/><font color="#FFFF00">. ѕ«—г «“ жё г «” Ё«ѕе гнШдг</font>
+<SYNC Start=889777><Time begin="0:15:06.3" end="0:15:08.1" /><clear/><font color="#FFFF00">. «жд не “дц ќж‘Рбе</font>
+<SYNC Start=892775><Time begin="0:15:09.1" end="0:15:15.6" /><clear/><font color="#FFFF00">Н‘г«н ёжн‘ гЋб Н‘«н «жд “де<br>. жё н ћжжд »жѕ</font>
+<SYNC Start=905777><Time begin="0:15:22.3" end="0:15:25.5" /><clear/><font color="#FFFF00">. нЏдн «жд ѕж « «нд гжёЏ ‘» Шћ«д</font>
+<SYNC Start=911780><Time begin="0:15:28.6" end="0:15:31.7" /><clear/><font color="#FFFF00">. ќж» ° Ќ г« Ше е— Нн »“—Р — »«‘д »е — дн” д</font>
+<SYNC Start=918775><Time begin="0:15:35.1" end="0:15:37.2" /><clear/><font color="#FFFF00">. де ... «гШ«д дѕ«—е</font>
+<SYNC Start=920777><Time begin="0:15:37.3" end="0:15:40.3" /><clear/><font color="#FFFF00">... ћнд енНжё </font>
+<SYNC Start=936777><Time begin="0:15:53.3" end="0:15:54.4" /><clear/><font color="#FFFF00">! ‘г« ѕж «</font>
+<SYNC Start=942776><Time begin="0:15:59.2" end="0:16:00.8" /><clear/><font color="#FFFF00">. ќЁе »«»«</font>
+<SYNC Start=943782><Time begin="0:16:00.8" end="0:16:01.9" /><clear/><font color="#FFFF00">... ”—г</font>
+<SYNC Start=945782><Time begin="0:16:02.8" end="0:16:03.9" /><clear/><font color="#FFFF00">. »ж Рдѕ ‘—«» гнѕнѕ</font>
+<SYNC Start=954778><Time begin="0:16:11.4" end="0:16:12.9" /><clear/><font color="#FFFF00">... «жд “днШе</font>
+<SYNC Start=955783><Time begin="0:16:12.9" end="0:16:14.3" /><clear/><font color="#FFFF00">. Бжбгждж “ѕ</font>
+<SYNC Start=957783><Time begin="0:16:14.9" end="0:16:17.9" /><clear/><font color="#FFFF00">!  гжг‘ Шднѕ</font>
+<SYNC Start=961783><Time begin="0:16:18.9" end="0:16:20.9" /><clear/><font color="#FFFF00">. »«нѕ «г—ж“ Бжб ѕ— »н«—нѕ</font>
+<SYNC Start=966775><Time begin="0:16:23.1" end="0:16:25.8" /><clear/><font color="#FFFF00">. Ќ«б« ° »н«нѕ ж  г«‘« Шднѕ</font>
+<SYNC Start=969778><Time begin="0:16:26.4" end="0:16:34.3" /><clear/><font color="#FFFF00">Ќ«б« «нд ѕж « «” «ѕ ‘г‘н— “дн «жгѕд  « ‘г«<br>. —ж »« ге«—  ќЁд‘жд ° ”—Р—г Шдд</font>
+<SYNC Start=977778><Time begin="0:16:34.4" end="0:16:37.8" /><clear/><font color="#FFFF00">. «Ре ШЁ жд »—нѕ ° бЎЁ« Бжб жд —ж  ж «ндћ« »дѕ«“нѕ</font>
+<SYNC Start=982777><Time begin="0:16:39.3" end="0:16:41.0" /><clear/><font color="#FFFF00">. Ќ«б« ° г—ѕг —ж ћгЏ Ш—ѕг</font>
+<SYNC Start=984779><Time begin="0:16:41.5" end="0:16:43.2" /><clear/><font color="#FFFF00">гнќж«нѕ НнШ«— Шднѕ њ</font>
+<SYNC Start=993782><Time begin="0:16:50.8" end="0:16:52.0" /><clear/><font color="#FFFF00">.  ж Б«нндне —ж »“д</font>
+<SYNC Start=995774><Time begin="0:16:52.0" end="0:16:52.9" /><clear/><font color="#FFFF00">. Ёегнѕг</font>
+<SYNC Start=996779><Time begin="0:16:53.5" end="0:16:55.6" /><clear/><font color="#FFFF00">. д —” ° д —”</font>
+<SYNC Start=1031783><Time begin="0:17:28.9" end="0:17:31.3" /><clear/><font color="#FFFF00">. ен . не Нн“не гнќж«г «“  »Б—”г</font>
+<SYNC Start=1034777><Time begin="0:17:31.3" end="0:17:32.3" /><clear/><font color="#FFFF00">Нне њ</font>
+<SYNC Start=1037777><Time begin="0:17:34.3" end="0:17:36.1" /><clear/><font color="#FFFF00">. ѕ—»«—е ћнде</font>
+<SYNC Start=1039783><Time begin="0:17:36.9" end="0:17:40.5" /><clear/><font color="#FFFF00">Нн“н ѕ—»«—е Р–‘ е «‘ ‘днѕн њ</font>
+<SYNC Start=1043780><Time begin="0:17:40.6" end="0:17:42.5" /><clear/><font color="#FFFF00">. дгнѕждг</font>
+<SYNC Start=1045779><Time begin="0:17:42.5" end="0:17:44.6" /><clear/><font color="#FFFF00">. Н—« «“ ќжѕ‘ дгнБ—”н</font>
+<SYNC Start=1049780><Time begin="0:17:46.6" end="0:17:48.6" /><clear/><font color="#FFFF00">. не –—е ”ќ е »Б—”г</font>
+<SYNC Start=1052781><Time begin="0:17:49.7" end="0:17:51.7" /><clear/><font color="#FFFF00">. ‘Ш ѕ«—г ¬ѕг »ѕне н« де</font>
+<SYNC Start=1057779><Time begin="0:17:54.5" end="0:18:01.8" /><clear/><font color="#FFFF00">. ќнбн д«“Ш‘ Ш—ѕнѕ . Шћ«же е«н Џж÷ ‘ѕе Шг — гн «—“д</font>
+<SYNC Start=1064782><Time begin="0:18:01.8" end="0:18:04.4" /><clear/><font color="#FFFF00">... Нн њ гнќж«н «“ г« ”ж «” Ё«ѕе Шдн</font>
+<SYNC Start=1067780><Time begin="0:18:04.6" end="0:18:07.1" /><clear/><font color="#FFFF00">Бн—н ° едж“ Ше дЁ—жќ н‘жд ° де њ</font>
+<SYNC Start=1070777><Time begin="0:18:07.3" end="0:18:11.1" /><clear/><font color="#FFFF00">«же ¬ё« ° Бжб »ѕ”  ¬ж—ѕнѕ ° е«д њ</font>
+<SYNC Start=1074775><Time begin="0:18:11.1" end="0:18:12.5" /><clear/><font color="#FFFF00">. не –—е ’»— Шднѕ</font>
+<SYNC Start=1079779><Time begin="0:18:16.5" end="0:18:19.8" /><clear/><font color="#FFFF00">. егнд «б«д ѕ— »«“ ‘ѕ</font>
+<SYNC Start=1082782><Time begin="0:18:19.8" end="0:18:21.8" /><clear/><font color="#FFFF00">. ѕ—н Ше «”г‘  ёѕн—е</font>
+<SYNC Start=1084782><Time begin="0:18:21.8" end="0:18:25.4" /><clear/><font color="#FFFF00">д жд” н  « ‘» ’»— Шдн ° «жгѕн ѕд»«бг њ</font>
+<SYNC Start=1088778><Time begin="0:18:25.4" end="0:18:28.6" /><clear/><font color="#FFFF00">. Џн»н дѕ«—е ° «нд «Ќ”«”«  —ж гнЁегг</font>
+<SYNC Start=1097782><Time begin="0:18:34.8" end="0:18:36.2" /><clear/><font color="#FFFF00">«”г‘ Нне њ</font>
+<SYNC Start=1099776><Time begin="0:18:36.2" end="0:18:38.9" /><clear/><font color="#FFFF00">. ћнд</font>
+<SYNC Start=1102776><Time begin="0:18:39.2" end="0:18:41.1" /><clear/><font color="#FFFF00">ћнд «“ гжћж ‘ндянд ћж ”ж њ</font>
+<SYNC Start=1105783><Time begin="0:18:42.9" end="0:18:46.2" /><clear/><font color="#FFFF00">гд «“ ‘«Р—ѕ«н ѕжћжн гжћж ‘ндШд ° «жРж—« »жд « е” г</font>
+<SYNC Start=1109776><Time begin="0:18:46.2" end="0:18:47.2" /><clear/><font color="#FFFF00">. ћж«»г —ж »ѕе</font>
+<SYNC Start=1110781><Time begin="0:18:47.7" end="0:18:50.7" /><clear/><font color="#FFFF00">. ѕ—” е ° гд ћнд «г</font>
+<SYNC Start=1114778><Time begin="0:18:51.4" end="0:18:53.1" /><clear/><font color="#FFFF00">! ќ«∆д</font>
+<SYNC Start=1116775><Time begin="0:18:53.1" end="0:18:55.1" /><clear/><font color="#FFFF00">! «д ё«г «” «ѕгжд —ж гнРн—г ! ќжѕ ж ¬г«ѕе Шд</font>
+<SYNC Start=1119780><Time begin="0:18:56.6" end="0:18:57.6" /><clear/><font color="#FFFF00">. »н« »н—жд</font>
+<SYNC Start=1121783><Time begin="0:18:58.9" end="0:18:59.9" /><clear/><font color="#FFFF00">«жРж—« њ</font>
+<SYNC Start=1125780><Time begin="0:19:02.6" end="0:19:04.0" /><clear/><font color="#FFFF00">. ѕќ«б  дШднѕ</font>
+<SYNC Start=1128776><Time begin="0:19:05.2" end="0:19:06.8" /><clear/><font color="#FFFF00">. ќнбн ѕд»«б  Р‘ г</font>
+<SYNC Start=1129782><Time begin="0:19:06.8" end="0:19:12.5" /><clear/><font color="#FFFF00">»—« Бнѕ« Ш—ѕд  ж ° Ќ н джНе егНнд ¬ѕгн<br>. ‘ѕг ж ’»— Ш—ѕг</font>
+<SYNC Start=1136781><Time begin="0:19:13.7" end="0:19:15.5" /><clear/><font color="#FFFF00">Н—« »е‘ ќн«д  Ш—ѕн њ</font>
+<SYNC Start=1138779><Time begin="0:19:15.5" end="0:19:18.0" /><clear/><font color="#FFFF00">г—ѕн гЋб  ж ° Н—« »е «” «ѕгжд ќн«д  Ш—ѕ њ</font>
+<SYNC Start=1141774><Time begin="0:19:18.0" end="0:19:20.7" /><clear/><font color="#FFFF00">. гд ќн«д  дШ—ѕг</font>
+<SYNC Start=1144778><Time begin="0:19:21.4" end="0:19:24.4" /><clear/><font color="#FFFF00">. «г« »ежде  —«‘н дгнШдг</font>
+<SYNC Start=1147778><Time begin="0:19:24.4" end="0:19:27.3" /><clear/><font color="#FFFF00">. ѕ— е— Ќ«б ° «нд ѕ—” е Ше гд «” «ѕгжд —ж Ш‘ г</font>
+<SYNC Start=1150779><Time begin="0:19:27.5" end="0:19:28.6" /><clear/><font color="#FFFF00">!  ж</font>
+<SYNC Start=1162775><Time begin="0:19:39.1" end="0:19:42.4" /><clear/><font color="#FFFF00">... «жРж—ж «ндёѕ— ёжн »жѕ</font>
+<SYNC Start=1188781><Time begin="0:20:05.7" end="0:20:06.3" /><clear/><font color="#FFFF00">. гдж »Ш‘</font>
+<SYNC Start=1191776><Time begin="0:20:08.2" end="0:20:14.1" /><clear/><font color="#FFFF00">. «г« Ё—«гж‘ дШд ° ќнбн «“ ‘«Р—ѕ«‘ ѕд»«б д</font>
+<SYNC Start=1198776><Time begin="0:20:15.2" end="0:20:16.9" /><clear/><font color="#FFFF00">. »—« «жд ¬г«ѕе «г</font>
+<SYNC Start=1202774><Time begin="0:20:19.0" end="0:20:20.8" /><clear/><font color="#FFFF00">. «ндж »е —Ёё«  ег »Рж</font>
+<SYNC Start=1203782><Time begin="0:20:20.8" end="0:20:23.8" /><clear/><font color="#FFFF00">. «нд ѕбнб «нде Ше “дѕе «  гн–«—г</font>
+<SYNC Start=1207781><Time begin="0:20:24.7" end="0:20:27.0" /><clear/><font color="#FFFF00">. не —ж“н ° «д ё«г‘ —ж гнРн—г</font>
+<SYNC Start=1211780><Time begin="0:20:28.6" end="0:20:30.5" /><clear/><font color="#FFFF00">. ег‘ —«”  »жѕ</font>
+<SYNC Start=1217775><Time begin="0:20:34.1" end="0:20:35.1" /><clear/><font color="#FFFF00">. ѕ«ѕ«‘</font>
+<SYNC Start=1222779><Time begin="0:20:39.5" end="0:20:41.1" /><clear/><font color="#FFFF00">! —жнћн</font>
+<SYNC Start=1224775><Time begin="0:20:41.1" end="0:20:45.6" /><clear/><font color="#FFFF00">. —жнћн ! ќнбн жё е дѕнѕг  ° —жнћн</font>
+<SYNC Start=1228780><Time begin="0:20:45.6" end="0:20:46.9" /><clear/><font color="#FFFF00">Н—« —жнћн «ндћ«” њ</font>
+<SYNC Start=1232783><Time begin="0:20:49.9" end="0:20:50.5" /><clear/><font color="#FFFF00">. «ж”цд</font>
+<SYNC Start=1233779><Time begin="0:20:50.5" end="0:20:52.9" /><clear/><font color="#FFFF00">! »«б«ќ—е Бнѕ«  Ш—ѕг</font>
+<SYNC Start=1235783><Time begin="0:20:52.9" end="0:20:57.5" /><clear/><font color="#FFFF00">. жё  ж «ндћ«  бЁ дШд ° н«б« »—нг ќжде</font>
+<SYNC Start=1240779><Time begin="0:20:57.5" end="0:21:00.9" /><clear/><font color="#FFFF00">. »»ќ‘нѕ Ше ‘же—г ќ—е</font>
+<SYNC Start=1244782><Time begin="0:21:01.8" end="0:21:03.3" /><clear/><font color="#FFFF00">! ен ° ен</font>
+<SYNC Start=1246779><Time begin="0:21:03.5" end="0:21:04.8" /><clear/><font color="#FFFF00">° »Ёег</font>
+<SYNC Start=1247782><Time begin="0:21:04.8" end="0:21:09.8" /><clear/><font color="#FFFF00">. еге г—ѕ« ќ—д ° Б” Ќ г« «“ «жб ”ж«—‘жд ‘ж</font>
+<SYNC Start=1253775><Time begin="0:21:10.1" end="0:21:11.7" /><clear/><font color="#FFFF00">. г« ѕнРе гн—нг</font>
+<SYNC Start=1257783><Time begin="0:21:14.9" end="0:21:17.3" /><clear/><font color="#FFFF00">. ќѕ«Ёў ° ќ«джг ёб»г</font>
+<SYNC Start=1260783><Time begin="0:21:17.9" end="0:21:21.3" /><clear/><font color="#FFFF00">. ѕ—»«—е «   ж “дѕРнд«ге «г гнджн”г</font>
+<SYNC Start=1264779><Time begin="0:21:21.5" end="0:21:22.9" /><clear/><font color="#FFFF00">ѕ«—н НнШ«— гнШдн њ</font>
+<SYNC Start=1265783><Time begin="0:21:22.9" end="0:21:25.9" /><clear/><font color="#FFFF00">. »Не е« Р‘д‘жде ж гд ў—д ° Б” “жѕ »«‘</font>
+<SYNC Start=1268783><Time begin="0:21:25.9" end="0:21:27.8" /><clear/><font color="#FFFF00">! ¬е ° ѕ—” е</font>
+<SYNC Start=1274777><Time begin="0:21:31.3" end="0:21:31.9" /><clear/><font color="#FFFF00">. Бжбг</font>
+<SYNC Start=1276780><Time begin="0:21:33.6" end="0:21:38.8" /><clear/><font color="#FFFF00">. гд »нќн«б «д‘н—ж ‘ѕг ... ЁШ Шдг г«”«‘н »е —е</font>
+<SYNC Start=1282774><Time begin="0:21:39.0" end="0:21:41.1" /><clear/><font color="#FFFF00">. «жд гх—ѕе</font>
+<SYNC Start=1284775><Time begin="0:21:41.1" end="0:21:42.3" /><clear/><font color="#FFFF00">ќж» дж»жд«Р« НЎж—е њ</font>
+<SYNC Start=1285777><Time begin="0:21:42.3" end="0:21:42.8" /><clear/><font color="#FFFF00">! ¬—е ° ќжѕ‘е</font>
+<SYNC Start=1286775><Time begin="0:21:43.1" end="0:21:44.6" /><clear/><font color="#FFFF00">. ќѕ«нн‘ г« —ж днР«</font>
+<SYNC Start=1289783><Time begin="0:21:46.9" end="0:21:49.3" /><clear/><font color="#FFFF00">. г—ѕ« ќ—д</font>
+<SYNC Start=1293777><Time begin="0:21:50.3" end="0:21:53.1" /><clear/><font color="#FFFF00">. Б«н«д</font></b></center>
+</BODY>
+</SAMI>

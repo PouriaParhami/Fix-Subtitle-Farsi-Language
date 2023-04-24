@@ -1,0 +1,305 @@
+<Window
+  Width    = "640"
+  Height   = "480"
+  WordWrap = "true"
+  Loop     = "true"
+  bgcolor  = "black"
+>
+<Font
+  Color = "white"
+  Face  = "Arial"
+  Size  = "+2"
+>
+<center>
+<b>
+
+<Time begin="0:00:01.0" end="0:00:10.0" /><clear/><font color="#FFFF00">Sabzchidori & Sfmking Ш«—н «“<br>http://forums.animworld.net</font>
+<Time begin="0:01:32.9" end="0:01:34.0" /><clear/><font color="#FFFF00">. ггджд</font>
+<Time begin="0:01:44.1" end="0:01:45.3" /><clear/><font color="#FFFF00"> ж Шн е” н њ</font>
+<Time begin="0:01:47.6" end="0:01:52.6" /><clear/><font color="#FFFF00">гнѕждн Ше гд  «ћнг« гждн «ѕ« «“ Ёжд ”цШн”«н —нж<br>е” г ж «нд Ш«— —ж гнШдн њ</font>
+<Time begin="0:01:54.2" end="0:01:56.3" /><clear/><font color="#FFFF00">. гЏбжге Ше гнѕждг</font>
+<Time begin="0:01:58.4" end="0:01:59.7" /><clear/><font color="#FFFF00">. ќж»е</font>
+<Time begin="0:01:59.7" end="0:02:01.6" /><clear/><font color="#FFFF00">. »«е«  гнћдРг  « ‘«гн Ше ќж—ѕг »—е Б«ннд</font>
+<Time begin="0:02:02.8" end="0:02:03.8" /><clear/><font color="#FFFF00">! «жгѕг</font>
+<Time begin="0:02:18.5" end="0:02:19.0" /><clear/><font color="#FFFF00">. ћджд гебШ</font>
+<Time begin="0:02:19.0" end="0:02:19.6" /><clear/><font color="#FFFF00">. ћджд гебШ</font>
+<Time begin="0:02:20.4" end="0:02:22.5" /><clear/><font color="#FFFF00">. ћджд гебШ</font>
+<Time begin="0:02:24.8" end="0:02:28.5" /><clear/><font color="#FFFF00">. «же ... г—ѕг «“ Р‘дРн</font>
+<Time begin="0:02:29.1" end="0:02:31.4" /><clear/><font color="#FFFF00">. ќ” г Ш—ѕн »« «ндеге дё “ѕд</font>
+<Time begin="0:02:31.4" end="0:02:36.1" /><clear/><font color="#FFFF00">. «г« ... «“ жё н Р–—Р«е —ж —ѕ Ш—ѕнг енНн дќж—ѕнг</font>
+<Time begin="0:02:36.1" end="0:02:37.9" /><clear/><font color="#FFFF00">. ќж» »—ж «“ ћж» ¬» »ќж—</font>
+<Time begin="0:02:44.2" end="0:02:48.0" /><clear/><font color="#FFFF00">. »»ќ‘нѕ ° «г« г« Ќ н Бжб «ндШе не ћ«нн —ж »Рн—нг ° дѕ«—нг</font>
+<Time begin="0:02:48.7" end="0:02:50.9" /><clear/><font color="#FFFF00">. Нн“н дѕ«—нг ’ѕёе »ѕнг</font>
+<Time begin="0:02:50.9" end="0:02:53.6" /><clear/><font color="#FFFF00">. «же ° ќнбн ќж»е</font>
+<Time begin="0:03:01.7" end="0:03:04.3" /><clear/><font color="#FFFF00">. »е — «“ «нд дгн‘е</font>
+<Time begin="0:03:04.3" end="0:03:07.0" /><clear/><font color="#FFFF00">. Нжд Ш”н д»жѕ ШгШ Шде ќнбн г‘Шб ѕ«‘ нг</font>
+<Time begin="0:03:07.6" end="0:03:12.9" /><clear/><font color="#FFFF00">»Џѕ «“ «ндШе  гн“ Ш«—н —ж  гжг Ш—ѕн ° гћ”ге<br>. »жѕ« —ж »—ё »дѕ«“</font>
+<Time begin="0:03:12.9" end="0:03:14.4" /><clear/><font color="#FFFF00">г‘Шбн Ше дѕ«—н њ</font>
+<Time begin="0:03:14.4" end="0:03:18.4" /><clear/><font color="#FFFF00">«Ре енНн дРг ж ЁёЎ Рж‘ Шдг ° гнќж«н гЋб »—ѕе<br>... «“гжд Ш«— »Ш‘н</font>
+<Time begin="0:03:18.4" end="0:03:21.2" /><clear/><font color="#FFFF00">. ѕ«—нг ћ« ж џ–«н гћ«дн гнРн—нг Б” дё д“д</font>
+<Time begin="0:03:22.4" end="0:03:26.4" /><clear/><font color="#FFFF00">¬е«д —«” н ° »Џѕ‘ »—нѕ Нж» ќж—ѕ Шднѕ ж ѕ—е«н Ш‘жнн<br>. —ж  Џгн— Шднѕ</font>
+<Time begin="0:03:36.4" end="0:03:38.4" /><clear/><font color="#FFFF00">. «у«у«у«уе</font>
+<Time begin="0:03:40.7" end="0:03:43.7" /><clear/><font color="#FFFF00">. ¬ќ—‘ ег ќжѕг гћ»ж— ‘ѕг »е ћ«н «жд »жѕ« —ж »—ё »дѕ«“г</font>
+<Time begin="0:03:43.7" end="0:03:45.4" /><clear/><font color="#FFFF00">ен ° ен . ѕж»«—е «жд « Ё«ё «Ё «ѕ њ</font>
+<Time begin="0:03:45.4" end="0:03:47.5" /><clear/><font color="#FFFF00">. гд Ше —нѕг »е ќжѕг</font>
+<Time begin="0:03:47.5" end="0:03:48.7" /><clear/><font color="#FFFF00">Нн њ Нн њ</font>
+<Time begin="0:03:48.7" end="0:03:50.5" /><clear/><font color="#FFFF00">дгнѕждн њ</font>
+<Time begin="0:03:50.5" end="0:03:52.1" /><clear/><font color="#FFFF00">.  ”жћнРн—н</font>
+<Time begin="0:03:50.5" end="0:03:52.1" /><clear/><font color="#FFFF00"> ”жћнРн—н : «ндШе не дЁ— —ж »Ш‘н  « )<br>(‘г‘н— ћѕнѕ  —ж «г Ќ«д Шдн</font>
+<Time begin="0:03:52.1" end="0:03:54.3" /><clear/><font color="#FFFF00">. «нд ”жгнд »«—  ж «нд г«ее</font>
+<Time begin="0:03:55.6" end="0:03:59.1" /><clear/><font color="#FFFF00">. «жд«нн ег Ше еѕЁ »жѕд ° егРн ”«гж—«нн е«н г«е—н »жѕд</font>
+<Time begin="0:03:59.1" end="0:04:03.7" /><clear/><font color="#FFFF00">. не ћ«н“е 10 —нж «н ег »—« Ш”н Ше »Рн— ‘ ° Р–«‘ д</font>
+<Time begin="0:04:03.7" end="0:04:05.6" /><clear/><font color="#FFFF00">!де »«»« ! 10 —нж њ</font>
+<Time begin="0:04:07.8" end="0:04:09.4" /><clear/><font color="#FFFF00">ен ° Рж‘ гнШднѕ њ</font>
+<Time begin="0:04:10.3" end="0:04:12.2" /><clear/><font color="#FFFF00">. 10—нж . 10 —нж</font>
+<Time begin="0:04:12.2" end="0:04:15.5" /><clear/><font color="#FFFF00">. «Ре «ждёѕ— Бжб ѕ«‘ е »«‘нг ° —«Ќ  гн жднг »е д«Ш«“«Шн »—”нг</font>
+<Time begin="0:04:15.5" end="0:04:16.6" /><clear/><font color="#FFFF00"> ”жћнРн—н ° е«д њ</font>
+<Time begin="0:04:16.6" end="0:04:18.4" /><clear/><font color="#FFFF00">. Џб«ёе «н дѕ«—г</font>
+<Time begin="0:04:18.4" end="0:04:20.6" /><clear/><font color="#FFFF00">«жд н«—ж ёжне њ</font>
+<Time begin="0:04:20.6" end="0:04:21.6" /><clear/><font color="#FFFF00">. гЏбжге</font>
+<Time begin="0:04:21.6" end="0:04:25.9" /><clear/><font color="#FFFF00">«жд Шбшн ”ќ н гнШ‘е  « ”«гж—«нн е«н гег —ж<br>. Бнѕ« Шде ж »Ш‘е</font>
+<Time begin="0:04:25.9" end="0:04:26.7" /><clear/><font color="#FFFF00">° ќнбн ќж»</font>
+<Time begin="0:04:27.6" end="0:04:30.3" /><clear/><font color="#FFFF00">. не  жШ Б« гн—г »н—жд</font>
+<Time begin="0:04:30.3" end="0:04:31.3" /><clear/><font color="#FFFF00">. ен ° не ѕёнёе ж«н”« »ндг</font>
+<Time begin="0:04:32.8" end="0:04:35.3" /><clear/><font color="#FFFF00">. «же ° ћнд . гн”Б«—г‘ »е  ж</font>
+<Time begin="0:04:35.3" end="0:04:36.0" /><clear/><font color="#FFFF00">. ен</font>
+<Time begin="0:04:37.0" end="0:04:38.0" /><clear/><font color="#FFFF00">... ќж» ° ќж»</font>
+<Time begin="0:04:41.9" end="0:04:43.0" /><clear/><font color="#FFFF00">ж њ</font>
+<Time begin="0:04:43.0" end="0:04:44.2" /><clear/><font color="#FFFF00">... ѕќ — ќ«дг</font>
+<Time begin="0:04:44.2" end="0:04:45.7" /><clear/><font color="#FFFF00">. ѕ—«»—е «‘ ЁШ Шд</font>
+<Time begin="0:04:45.7" end="0:04:50.2" /><clear/><font color="#FFFF00">. «Ре гнќж«н не  ”жћнРн—н —ж »»ндн »«нѕ  ж —ж »»нде</font>
+<Time begin="0:04:50.2" end="0:04:52.2" /><clear/><font color="#FFFF00">. егНнд Ш”н ѕнРе дгн жде “дѕе »«‘е</font>
+<Time begin="0:04:52.2" end="0:04:53.4" /><clear/><font color="#FFFF00">. Ёегнѕг</font>
+<Time begin="0:04:53.4" end="0:04:55.5" /><clear/><font color="#FFFF00">«г« нЏдн енН ”—дќн дн”  њ</font>
+<Time begin="0:04:55.5" end="0:04:59.2" /><clear/><font color="#FFFF00">ен ° Рдѕе н «нд ѕж— ж ж— Шне њ</font>
+<Time begin="0:04:59.2" end="0:05:00.0" /><clear/><font color="#FFFF00">е«д њ</font>
+<Time begin="0:05:00.6" end="0:05:03.2" /><clear/><font color="#FFFF00">Н—« егНнд Нн“н гнБ—”н њ</font>
+<Time begin="0:05:03.2" end="0:05:05.9" /><clear/><font color="#FFFF00">«жд еѕЁ »Џѕне ° гРе де њ</font>
+<Time begin="0:05:05.9" end="0:05:07.0" /><clear/><font color="#FFFF00">. «же</font>
+<Time begin="0:05:07.0" end="0:05:07.7" /><clear/><font color="#FFFF00">ж њ</font>
+<Time begin="0:05:08.3" end="0:05:09.4" /><clear/><font color="#FFFF00">”б«г њ нжеж њ</font>
+<Time begin="0:05:09.4" end="0:05:10.4" /><clear/><font color="#FFFF00">. гжгжн ”цн‘н—ж</font>
+<Time begin="0:05:11.4" end="0:05:12.3" /><clear/><font color="#FFFF00">. г—”н</font>
+<Time begin="0:05:20.3" end="0:05:21.3" /><clear/><font color="#FFFF00">ен ѕ«—н НнШ«— гнШдн њ</font>
+<Time begin="0:05:21.3" end="0:05:22.7" /><clear/><font color="#FFFF00">. гдж »нќн«б</font>
+<Time begin="0:05:22.7" end="0:05:23.6" /><clear/><font color="#FFFF00">Нн њ</font>
+<Time begin="0:05:23.6" end="0:05:25.9" /><clear/><font color="#FFFF00"> ж егжд ”«гж—«нн е” н Ше »е‘ гнРд гжгжн ° де њ</font>
+<Time begin="0:05:25.9" end="0:05:26.7" /><clear/><font color="#FFFF00">. ѕ—” е</font>
+<Time begin="0:05:26.7" end="0:05:32.0" /><clear/><font color="#FFFF00">«н‘жд «” «ѕ гжгжн ”цн‘н—ж е” д ° —∆н” Рд”жШд<br>. Ше »е " ¬ѕг »—ён " гЏ—жЁе</font>
+<Time begin="0:05:32.0" end="0:05:33.2" /><clear/><font color="#FFFF00">гнќж«н ‘«Р—ѕг »‘н њ</font>
+<Time begin="0:05:34.1" end="0:05:36.7" /><clear/><font color="#FFFF00">... ќж»е ° Ќ«б«  ”жћнРн—н</font>
+<Time begin="0:05:36.7" end="0:05:38.8" /><clear/><font color="#FFFF00"> ж  ”жћнРн—н е” н њ</font>
+<Time begin="0:05:38.8" end="0:05:41.1" /><clear/><font color="#FFFF00">. ќнбн ћ—«  ѕ«—н  ж —ж“ —ж‘д ќжѕ ж д‘жд ѕ«ѕн</font>
+<Time begin="0:05:41.1" end="0:05:42.6" /><clear/><font color="#FFFF00">. е«д њ ѕ«—нѕ «‘ »«е гнШднѕ</font>
+<Time begin="0:05:42.6" end="0:05:43.1" /><clear/><font color="#FFFF00">. ќжѕ ж ¬г«ѕе Шд</font>
+<Time begin="0:05:48.8" end="0:05:50.2" /><clear/><font color="#FFFF00">! РЁ г «‘ »«е Р—Ё нѕ</font>
+<Time begin="0:05:50.2" end="0:05:51.9" /><clear/><font color="#FFFF00">.  ж —ж ќѕ« ж«н”«</font>
+<Time begin="0:05:51.9" end="0:05:52.8" /><clear/><font color="#FFFF00">. ѕ—жџе . ѕ—жџе</font>
+<Time begin="0:05:52.8" end="0:05:56.4" /><clear/><font color="#FFFF00">. ¬ѕг »—ён " не ѕ—жџе ° «“ ќжѕг ѕ— ¬ж—ѕг "</font>
+<Time begin="0:05:56.4" end="0:05:58.2" /><clear/><font color="#FFFF00">! гдж дШ‘</font>
+<Time begin="0:05:59.5" end="0:06:00.5" /><clear/><font color="#FFFF00">. Не ÷«нЏ</font>
+<Time begin="0:06:02.9" end="0:06:05.9" /><clear/><font color="#FFFF00">. ¬—е ° не ћ”ѕ »жѕ</font>
+<Time begin="0:06:05.9" end="0:06:06.8" /><clear/><font color="#FFFF00">ћѕ« њ</font>
+<Time begin="0:06:06.8" end="0:06:09.4" /><clear/><font color="#FFFF00">. «г« не ћ”ѕ Џћн»</font>
+<Time begin="0:06:09.4" end="0:06:11.7" /><clear/><font color="#FFFF00">° »« «ндШе Ќ н не “ќг ‘г‘н— ег д»жѕ</font>
+<Time begin="0:06:11.7" end="0:06:16.5" /><clear/><font color="#FFFF00">ќжд «“ Н‘ге«‘ ж Рж‘ е«‘ ж еге —ж“де е«н<br>° »ѕд‘ »н—жд “ѕе »жѕ</font>
+<Time begin="0:06:16.5" end="0:06:18.4" /><clear/><font color="#FFFF00">. ж г—ѕе »жѕ</font>
+<Time begin="0:06:18.4" end="0:06:20.7" /><clear/><font color="#FFFF00">Б” НЎж—н Ш‘ е ‘ѕе »жѕ њ</font>
+<Time begin="0:06:20.7" end="0:06:22.2" /><clear/><font color="#FFFF00">. дгнѕждг</font>
+<Time begin="0:06:22.2" end="0:06:26.0" /><clear/><font color="#FFFF00">. «Ре Ёегнѕе »жѕд °  « Ќ«б« ѕ” Рн—‘ Ш—ѕе »жѕд</font>
+<Time begin="0:06:27.7" end="0:06:29.5" /><clear/><font color="#FFFF00">гнќж«н НнШ«— Шдн њ</font>
+<Time begin="0:06:29.5" end="0:06:32.3" /><clear/><font color="#FFFF00">. ен ° ’ѕ« ж »«б« д»—</font>
+<Time begin="0:06:32.9" end="0:06:36.5" /><clear/><font color="#FFFF00">. «“ Џгѕ Ше »е г« д“ѕ</font>
+<Time begin="0:06:36.5" end="0:06:40.5" /><clear/><font color="#FFFF00">° «Ре не ћж—н «“гжд гЏ–—  »ќж«н</font>
+<Time begin="0:06:40.5" end="0:06:42.7" /><clear/><font color="#FFFF00">. «нд н«—ж е« ег —«÷н гн‘д</font>
+<Time begin="0:06:43.8" end="0:06:45.8" /><clear/><font color="#FFFF00">. ен ° не Нн“н »Рж</font>
+<Time begin="0:06:45.8" end="0:06:48.2" /><clear/><font color="#FFFF00">гнќж«н ќж—«Шц Шб«џ е« »‘н њ</font>
+<Time begin="0:06:49.5" end="0:06:51.7" /><clear/><font color="#FFFF00">. »е ‘г«е« Џб«ёе «н дѕ«—г</font>
+<Time begin="0:06:53.7" end="0:06:57.2" /><clear/><font color="#FFFF00">. ѕ«—г гнРг «“ ¬ѕг«н ÷ЏнЁ ќж‘г дгн«ѕ</font>
+<Time begin="0:06:57.2" end="0:06:58.0" /><clear/><font color="#FFFF00">... Џж÷н</font>
+<Time begin="0:06:58.0" end="0:06:59.8" /><clear/><font color="#FFFF00">ЁШ Ш—ѕн Шн е” н њ</font>
+<Time begin="0:07:07.6" end="0:07:08.3" /><clear/><font color="#FFFF00">! бЏд н</font>
+<Time begin="0:07:10.2" end="0:07:13.3" /><clear/><font color="#FFFF00">! е ... енж ... «жд не енжб«∆е</font>
+<Time begin="0:07:20.9" end="0:07:23.3" /><clear/><font color="#FFFF00">. »—«н «г—ж“ »”е</font>
+<Time begin="0:07:23.3" end="0:07:25.1" /><clear/><font color="#FFFF00">. Б” «нд ¬ќ—н‘е</font>
+<Time begin="0:07:25.1" end="0:07:27.3" /><clear/><font color="#FFFF00">. гн—г џ–« —ж ¬г«ѕе Шдг</font>
+<Time begin="0:07:32.2" end="0:07:33.8" /><clear/><font color="#FFFF00">. Џћ» Нж» ”—“дѕе «н</font>
+<Time begin="0:07:34.4" end="0:07:37.9" /><clear/><font color="#FFFF00">. »« егнд Нж» Ќгжг —ж —ж‘д гнШдг</font>
+<Time begin="0:07:45.3" end="0:07:46.2" /><clear/><font color="#FFFF00">! ќж‘ «жгѕнѕ</font>
+<Time begin="0:07:47.4" end="0:07:48.3" /><clear/><font color="#FFFF00">. ‘—«»</font>
+<Time begin="0:07:48.3" end="0:07:53.0" /><clear/><font color="#FFFF00">»« «ждёѕ Бжб дгн ждн “н«ѕ »ќж—н ° «г«<br>. ЁШ Шдг егндёѕ— »—«  ќж» »«‘е</font>
+<Time begin="0:07:53.0" end="0:07:54.4" /><clear/><font color="#FFFF00">Н—« њ</font>
+<Time begin="0:07:54.4" end="0:07:56.1" /><clear/><font color="#FFFF00">д‘днѕе «н њ</font>
+<Time begin="0:07:56.1" end="0:07:59.1" /><clear/><font color="#FFFF00">. «ндћ«е« «нд «ж«ќ— “н«ѕ «гд дн” </font>
+<Time begin="0:07:59.1" end="0:08:00.3" /><clear/><font color="#FFFF00">»ќ«Ў—  ”жћнРн—н њ</font>
+<Time begin="0:08:00.3" end="0:08:03.6" /><clear/><font color="#FFFF00">. ¬—е ° »ќ«Ў— «жд Ш«”»н г« Ш”«ѕ ‘ѕе</font>
+<Time begin="0:08:05.5" end="0:08:06.7" /><clear/><font color="#FFFF00">. нШн ѕнРе</font>
+<Time begin="0:08:06.7" end="0:08:10.0" /><clear/><font color="#FFFF00">... »»ќ‘нѕ ° «г« »« ѕе гжд ° ЁёЎ егждёѕ—</font>
+<Time begin="0:08:10.0" end="0:08:10.4" /><clear/><font color="#FFFF00">... «гг<br>... »»ќ‘нѕ ° «г« »« ѕе гжд ° ЁёЎ егждёѕ—</font>
+<Time begin="0:08:10.4" end="0:08:11.4" /><clear/><font color="#FFFF00">... «гг</font>
+<Time begin="0:08:11.4" end="0:08:12.5" /><clear/><font color="#FFFF00">... «Ре »ќж«н</font>
+<Time begin="0:08:14.5" end="0:08:19.0" /><clear/><font color="#FFFF00">. ё‘дРнц ‘—«»  ж «нде Ше »« Шгн ° »е  Ќ«б »ѕе</font>
+<Time begin="0:08:19.0" end="0:08:21.2" /><clear/><font color="#FFFF00">. «г‘» не –—е “н«ѕ ќж—ѕг</font>
+<Time begin="0:08:22.6" end="0:08:23.7" /><clear/><font color="#FFFF00">. »Ё—г«</font>
+<Time begin="0:08:23.7" end="0:08:25.9" /><clear/><font color="#FFFF00">. Б” ° ё»жб гнШдг</font>
+<Time begin="0:08:27.1" end="0:08:28.9" /><clear/><font color="#FFFF00">. «же ° »»ќ‘нѕ</font>
+<Time begin="0:08:29.5" end="0:08:31.8" /><clear/><font color="#FFFF00">«дР«— ж«ёЏ« «г‘» не –—е “н«ѕ ќж—ѕг</font>
+<Time begin="0:08:36.0" end="0:08:37.6" /><clear/><font color="#FFFF00"> ж Нн“н гнѕждн њ</font>
+<Time begin="0:08:38.4" end="0:08:40.0" /><clear/><font color="#FFFF00">ѕ—»«—е Нн њ</font>
+<Time begin="0:08:40.0" end="0:08:40.9" /><clear/><font color="#FFFF00">.  ”жћнРн—н</font>
+<Time begin="0:08:41.5" end="0:08:45.5" /><clear/><font color="#FFFF00">. Шн гнѕжде њ гд “н«ѕ  ж ЁШ— Ш«— ж »«— ѕдн« дн” г</font>
+<Time begin="0:08:45.5" end="0:08:48.5" /><clear/><font color="#FFFF00">. «дР«— »е ќжѕ‘ ”ќ н гнѕе  « »—е ѕд»«б ¬ѕг«н Рдѕе</font>
+<Time begin="0:08:49.0" end="0:08:50.7" /><clear/><font color="#FFFF00">. дгнѕждг Н—«</font>
+<Time begin="0:08:50.7" end="0:08:52.7" /><clear/><font color="#FFFF00">. гд ег дгнѕждг</font>
+<Time begin="0:08:53.4" end="0:08:56.5" /><clear/><font color="#FFFF00">: «г« гд не ѕ«” «дн «ндћж—н ‘днѕг</font>
+<Time begin="0:08:57.7" end="0:09:01.1" /><clear/><font color="#FFFF00">. ѕ— “г«д е«н ёѕнг ° ѕ— ”—“гндн ° не «” «ѕ Шжедж—ѕн »жѕ</font>
+<Time begin="0:09:02.0" end="0:09:04.9" /><clear/><font color="#FFFF00">. «нд г—ѕ Шже е«н »“—Р —ж Ё Ќ гнШ—ѕ</font>
+<Time begin="0:09:05.6" end="0:09:11.2" /><clear/><font color="#FFFF00">° «г« енН Ш” Нн“н «нд Шже е« —ж дѕнѕе »жѕ<br>. Б” дгн жд” д »Ёегд Нёѕ— Ќ—Ёе «н »жѕе</font>
+<Time begin="0:09:12.1" end="0:09:16.9" /><clear/><font color="#FFFF00">. «жд н«—ж егндЎж— »е »«б« —Ё д «“ Шже е« н »бдѕ — «ѕ«ге ѕ«ѕ</font>
+<Time begin="0:09:16.9" end="0:09:18.6" /><clear/><font color="#FFFF00">. е— —ж“ ж е— —ж“</font>
+<Time begin="0:09:18.6" end="0:09:21.3" /><clear/><font color="#FFFF00">. «ндЎж—н гн жд”  »е еге д‘жд »ѕе Нёѕ— Ќ—Ёе «не</font>
+<Time begin="0:09:22.9" end="0:09:28.3" /><clear/><font color="#FFFF00">ж «ндЎж—не «жд н«—ж ‘—жЏ Ш—ѕ —жн Шже “дѕРн Шде<br>. не гѕ  »Џѕ ‘нЎ«дн ‘ѕ</font>
+<Time begin="0:09:29.7" end="0:09:30.4" /><clear/><font color="#FFFF00">жњ</font>
+<Time begin="0:09:31.9" end="0:09:33.7" /><clear/><font color="#FFFF00">. «нд ¬ќ—ц ѕ«” «д »жѕ</font>
+<Time begin="0:09:33.7" end="0:09:36.0" /><clear/><font color="#FFFF00">. гд Ше дЁегнѕг</font>
+<Time begin="0:09:36.0" end="0:09:36.6" /><clear/><font color="#FFFF00">. г «”Ёг</font>
+<Time begin="0:09:36.6" end="0:09:38.8" /><clear/><font color="#FFFF00">. «дР«— ѕ«” «дц ќ” е Шддѕе «н »жѕ</font>
+<Time begin="0:09:38.8" end="0:09:40.6" /><clear/><font color="#FFFF00">. ќж» ° ќѕ«Ќ«Ёў</font>
+<Time begin="0:09:40.6" end="0:09:42.9" /><clear/><font color="#FFFF00">. Ќж«”  »е  ”жћнРн—н »«‘е</font>
+<Time begin="0:09:42.9" end="0:09:44.3" /><clear/><font color="#FFFF00">.  ж ег егндЎж—</font>
+<Time begin="0:09:46.2" end="0:09:47.1" /><clear/><font color="#FFFF00">ќжѕ н ° ѕ—” е њ</font>
+<Time begin="0:09:54.1" end="0:09:56.0" /><clear/><font color="#FFFF00">«нд ѕнРе Не Р«—ѕне њ</font>
+<Time begin="0:10:07.6" end="0:10:10.5" /><clear/><font color="#FFFF00">... «же ° Б”  жд” н «ндж ћ« ќ«бн »ѕн</font>
+<Time begin="0:10:12.7" end="0:10:14.1" /><clear/><font color="#FFFF00">. Ќ«б« гн  ждг б–  »»—г</font>
+<Time begin="0:10:16.0" end="0:10:17.9" /><clear/><font color="#FFFF00">! «жд «ждћ«”  . «жд  ”жћнРн—нц</font>
+<Time begin="0:10:21.9" end="0:10:25.5" /><clear/><font color="#FFFF00">. ѕЁЏе н »Џѕн Ше г«е Ш«гб »‘е .  ж —ж ѕж»«—е «ндћ« гб«ё«  гн Шдг</font>
+<Time begin="0:10:32.0" end="0:10:33.2" /><clear/><font color="#FFFF00">«нд Нне њ</font>
+<Time begin="0:10:34.4" end="0:10:41.4" /><clear/><font color="#FFFF00">Sabzchidori & Sfmking Ш«—н «“<br>http://forums.animworld.net</font>
+<Time begin="0:10:44.5" end="0:10:46.8" /><clear/><font color="#FFFF00">. Не г«ец ќж‘Рбне</font>
+<Time begin="0:10:46.8" end="0:10:49.7" /><clear/><font color="#FFFF00">. «“ гдў—е н «ндћ« ќж‘г гн«ѕ</font>
+<Time begin="0:10:52.0" end="0:10:53.0" /><clear/><font color="#FFFF00">. «же ° Б” ‘г« «ндћ«ннѕ</font>
+<Time begin="0:10:53.9" end="0:10:55.9" /><clear/><font color="#FFFF00">. «же ° »»ќ‘нѕ</font>
+<Time begin="0:10:56.9" end="0:10:58.1" /><clear/><font color="#FFFF00">. «же ° г‘Шбн дн” </font>
+<Time begin="0:10:59.4" end="0:11:01.4" /><clear/><font color="#FFFF00">. ѕ—»«—е н  ”жћнР—нц</font>
+<Time begin="0:11:02.2" end="0:11:07.2" /><clear/><font color="#FFFF00">. »е дў— гн —”е »е енН Шѕжг «“ «ћ”«ѕ ѕ”  д“ѕе<br>. жбн ё”г «н гќ бЁц »ѕд‘жд ќжд —н“н Ш—ѕе</font>
+<Time begin="0:11:08.8" end="0:11:11.2" /><clear/><font color="#FFFF00">ен ° «нд »ѕ дн”  њ</font>
+<Time begin="0:11:18.8" end="0:11:20.3" /><clear/><font color="#FFFF00">ћнд . Нн Ш«— гн Шдн !њ</font>
+<Time begin="0:11:21.4" end="0:11:22.3" /><clear/><font color="#FFFF00">. гдж »»ќ‘</font>
+<Time begin="0:11:23.0" end="0:11:26.7" /><clear/><font color="#FFFF00">. «г« »« «нд Ќ—Ш  . »«ж— дгн Шдг  ж не —«е»ц гЏгжбн »«‘н</font>
+<Time begin="0:11:26.7" end="0:11:27.8" /><clear/><font color="#FFFF00">Нн њ</font>
+<Time begin="0:11:27.8" end="0:11:28.7" /><clear/><font color="#FFFF00">гдўж—  Нне њ</font>
+<Time begin="0:11:32.2" end="0:11:32.9" /><clear/><font color="#FFFF00">. ен</font>
+<Time begin="0:11:33.5" end="0:11:34.8" /><clear/><font color="#FFFF00">. «же ° гжРд</font>
+<Time begin="0:11:34.8" end="0:11:35.7" /><clear/><font color="#FFFF00">Н  ‘ѕе њ</font>
+<Time begin="0:11:36.3" end="0:11:38.2" /><clear/><font color="#FFFF00">. ен ° ѕ” « </font>
+<Time begin="0:11:39.3" end="0:11:40.8" /><clear/><font color="#FFFF00">Не « Ё«ён »—«  «Ё «ѕе њ</font>
+<Time begin="0:11:40.8" end="0:11:42.2" /><clear/><font color="#FFFF00">. Нн“н дн” </font>
+<Time begin="0:11:42.2" end="0:11:43.6" /><clear/><font color="#FFFF00">! «нд Нн“н дн” </font>
+<Time begin="0:11:43.6" end="0:11:45.3" /><clear/><font color="#FFFF00"> ж  ”жћнРн—н —ж гб«ё«  Ш—ѕн ° де њ</font>
+<Time begin="0:11:46.4" end="0:11:47.1" /><clear/><font color="#FFFF00">. ¬—е</font>
+<Time begin="0:11:47.8" end="0:11:49.0" /><clear/><font color="#FFFF00">. Џг—«</font>
+<Time begin="0:11:49.0" end="0:11:51.4" /><clear/><font color="#FFFF00">. «жд не ‘г‘н—ц Џћн» ѕ«‘ </font>
+<Time begin="0:11:51.4" end="0:11:54.4" /><clear/><font color="#FFFF00">. «“ «жд ‘г‘н— не »«ѕц ёжн »н—жд «жгѕ</font>
+<Time begin="0:11:54.4" end="0:11:56.3" /><clear/><font color="#FFFF00">»«ѕ њ</font>
+<Time begin="0:11:56.3" end="0:11:58.2" /><clear/><font color="#FFFF00">... «Ре «жд »«ѕ »е  гн ќж—ѕ</font>
+<Time begin="0:11:58.2" end="0:11:59.1" /><clear/><font color="#FFFF00">... ЁШ—‘ж гн Ш—ѕг</font>
+<Time begin="0:11:59.9" end="0:12:03.8" /><clear/><font color="#FFFF00">. «нд  ”жћн—н ќнбн ‘»нец г—ѕне Ше ‘ж—нж ’ѕ«‘ гн “ѕнг</font>
+<Time begin="0:12:04.5" end="0:12:05.4" /><clear/><font color="#FFFF00"> ж гн ‘д«”н‘ њ</font>
+<Time begin="0:12:06.5" end="0:12:08.9" /><clear/><font color="#FFFF00">. «жд не “г«дн ‘«Р—ѕг »жѕ</font>
+<Time begin="0:12:14.1" end="0:12:18.8" /><clear/><font color="#FFFF00">. гд ё»б« не ћдРћж »жѕг »« ѕжћжн ќжѕг</font>
+<Time begin="0:12:18.8" end="0:12:23.5" /><clear/><font color="#FFFF00">° ‘ж—нж ... де ° г—ѕн Ше не “г«дн нжШд ’ѕ«‘ гн “ѕнг</font>
+<Time begin="0:12:23.5" end="0:12:26.4" /><clear/><font color="#FFFF00">. нШн «“ ‘«Р—ѕ«нц ѕжћжнц гд »жѕ</font>
+<Time begin="0:12:27.3" end="0:12:32.2" /><clear/><font color="#FFFF00">. «жд Ёжё «бЏ«ѕе г«е— »жѕ ж ед—е«н —“гн —ж »« ћѕн  ѕд»«б гн Ш—ѕ</font>
+<Time begin="0:12:32.2" end="0:12:34.7" /><clear/><font color="#FFFF00">. е— —ж“  г—Ш“ ѕ«‘ </font>
+<Time begin="0:12:41.5" end="0:12:43.2" /><clear/><font color="#FFFF00">. »ѕ»ќ «де ° Ш‘ н‘ џ—ё ‘ѕе »жѕ</font>
+<Time begin="0:12:43.7" end="0:12:48.1" /><clear/><font color="#FFFF00">. »е «нд ќ«Ў— еге н Ш”«нн Ше  ж Ш‘ н »жѕд ћжд‘жд —ж «“ ѕ”  ѕ«ѕд</font>
+<Time begin="0:12:52.3" end="0:12:56.7" /><clear/><font color="#FFFF00">. «г« нжШдц ќж‘ ‘«д” »е ”«Ќб —”нѕе »жѕ</font>
+<Time begin="0:12:57.4" end="0:12:59.5" /><clear/><font color="#FFFF00">. ж дћ«  Бнѕ« Ш—ѕе »жѕ</font>
+<Time begin="0:13:04.3" end="0:13:08.7" /><clear/><font color="#FFFF00">. «ндћ« ° «жд »« нШ ед— —“гнц д«‘д«ќ е —ж »е —ж ‘ѕ</font>
+<Time begin="0:13:14.5" end="0:13:19.4" /><clear/><font color="#FFFF00">. «нд г”∆бе »«ЏЋ ‘ѕ ”—дж‘ ‘ »е Шбн  џнн— Шде</font>
+<Time begin="0:13:26.0" end="0:13:31.2" /><clear/><font color="#FFFF00">ѕе ”«б »Џѕ «“ ° ќ»— г—Р‘ ° «жд «“ ѕ—н« Џ»ж— Ш—ѕ</font>
+<Time begin="0:13:31.2" end="0:13:34.0" /><clear/><font color="#FFFF00">. ж ѕж»«—е »е «нд Ш‘ж— «жгѕ</font>
+<Time begin="0:13:34.9" end="0:13:40.2" /><clear/><font color="#FFFF00">«г« «жд  џнн— Ш—ѕе »жѕ ° «нд  џнн— »е Ќѕн »жѕ<br>. Ше «ждж  »ѕнб »е не ¬ѕгц ѕнРе Ш—ѕе »жѕ</font>
+<Time begin="0:13:42.4" end="0:13:45.4" /><clear/><font color="#FFFF00">. жё н Ше гд «жгѕг Ше ед—е«н —“гнц  ”—“гнд е« —ж »‘д«”г</font>
+<Time begin="0:13:45.4" end="0:13:49.4" /><clear/><font color="#FFFF00">гћ»ж— ‘ѕг Ше ÷ЏЁ ж ‘Шддѕе »жѕд ед—е«н<br>. —“гн «н Ше н«ѕ Р—Ё е »жѕг —ж »Ёегг</font>
+<Time begin="0:13:51.9" end="0:13:53.8" /><clear/><font color="#FFFF00">. «ждћ« не  ШднШн »жѕ Ше »е‘ е«ШШн гн РЁ д</font>
+<Time begin="0:13:54.3" end="0:13:58.7" /><clear/><font color="#FFFF00">. »« “ж— де ° »бШе »« (Шнц) ѕ—ждн ° Ќ—нЁ  —ж ‘Ш”  гнѕн</font>
+<Time begin="0:13:59.4" end="0:14:03.1" /><clear/><font color="#FFFF00">. »Џѕ «“  г—нд е«н ”ќ  ° гд «жд  ШднШ —ж н«ѕ Р—Ё г</font>
+<Time begin="0:14:04.0" end="0:14:08.1" /><clear/><font color="#FFFF00">«г« ѕ—»«—е н ж÷Џн ц ћдРћже«н «нд Ш‘ж— Нн њ</font>
+<Time begin="0:14:08.7" end="0:14:13.1" /><clear/><font color="#FFFF00">”«гж—«нн  ж «нд “гжде н ¬—«г ° Ше<br>°  ж ’бЌ “дѕРн гн Шде ж не »“ѕбц</font>
+<Time begin="0:14:13.1" end="0:14:15.6" /><clear/><font color="#FFFF00">. гд гн ќж«г »е‘жд ед— —“гнц ж«ёЏн —ж н«ѕ »ѕг</font>
+<Time begin="0:14:15.6" end="0:14:18.1" /><clear/><font color="#FFFF00">гд гн ќж«г »—« «нд Ш‘ж— Ше «’«б ц ќжѕ‘<br>. —ж Ё—«гж‘ Ш—ѕе Ш«—н »Шдг</font>
+<Time begin="0:14:18.1" end="0:14:19.7" /><clear/><font color="#FFFF00">... «г« нжШд</font>
+<Time begin="0:14:19.7" end="0:14:21.3" /><clear/><font color="#FFFF00">. гд «жд «”г —ж Ё—«гж‘ Ш—ѕг</font>
+<Time begin="0:14:22.2" end="0:14:24.0" /><clear/><font color="#FFFF00">. гд Ќ«б« ‘ж—нж е” г</font>
+<Time begin="0:14:26.5" end="0:14:27.3" /><clear/><font color="#FFFF00">. гд  ”бнгг</font>
+<Time begin="0:14:29.0" end="0:14:29.7" /><clear/><font color="#FFFF00">! ен ’»— Шд</font>
+<Time begin="0:14:29.7" end="0:14:30.2" /><clear/><font color="#FFFF00">. «Ќгё</font>
+<Time begin="0:14:32.9" end="0:14:33.7" /><clear/><font color="#FFFF00">Нн ‘ѕе њ</font>
+<Time begin="0:14:34.5" end="0:14:37.8" /><clear/><font color="#FFFF00">. «жд г—ѕе . Не жЌ‘ д«Ш</font>
+<Time begin="0:14:37.8" end="0:14:40.3" /><clear/><font color="#FFFF00">... Ш‘ д не дЁ— ѕ— Ќнд  г—нд</font>
+<Time begin="0:14:40.3" end="0:14:44.9" /><clear/><font color="#FFFF00">... Ќгбе »е Ш”н Ше »н ѕЁ«Џц ж Ш‘ д‘</font>
+<Time begin="0:14:45.7" end="0:14:47.4" /><clear/><font color="#FFFF00"> ж ЁШ— гн Шдн ед— е«н —“гн Нне !њ</font>
+<Time begin="0:14:48.3" end="0:14:51.8" /><clear/><font color="#FFFF00">. ед—е«н —“гн ° жё н  ж‘жд «” «ѕ ‘ѕн °  ШднШ е«ннц »—«н Ш‘ д</font>
+<Time begin="0:14:51.8" end="0:14:55.9" /><clear/><font color="#FFFF00">. »е Џ»«— ц ѕнРе ° Р—Ё дц ћждц Ќ—нЁ  »е Ўж—ц Ш«гб</font>
+<Time begin="0:14:58.6" end="0:15:00.4" /><clear/><font color="#FFFF00">. гд  ж —ж «ќ—«ћ гн Шдг</font>
+<Time begin="0:15:01.6" end="0:15:02.4" /><clear/><font color="#FFFF00">Нн њ</font>
+<Time begin="0:15:02.9" end="0:15:05.9" /><clear/><font color="#FFFF00">«ќ—«ћ Ш—ѕн њ гдж њ</font>
+<Time begin="0:15:05.9" end="0:15:07.0" /><clear/><font color="#FFFF00">Н—« њ</font>
+<Time begin="0:15:07.0" end="0:15:10.1" /><clear/><font color="#FFFF00">.  ж —ж «ќ—«ћ гн Шдг Нжд дгн Ёегн Н—«</font>
+<Time begin="0:15:10.1" end="0:15:10.9" /><clear/><font color="#FFFF00">! г”ќ—е «”</font>
+<Time begin="0:15:11.7" end="0:15:13.3" /><clear/><font color="#FFFF00">гд «ќ—«ћ ‘ѕг !њ</font>
+<Time begin="0:15:14.4" end="0:15:15.3" /><clear/><font color="#FFFF00">г”ќ—е «” !њ</font>
+<Time begin="0:15:20.1" end="0:15:23.0" /><clear/><font color="#FFFF00"> ж гн  —”н «“ гд ‘Ш”  »ќж—н њ</font>
+<Time begin="0:15:23.0" end="0:15:25.3" /><clear/><font color="#FFFF00">»е ќ«Ў— егнд «ќ—«ћг гн Шдн њ</font>
+<Time begin="0:15:26.0" end="0:15:27.8" /><clear/><font color="#FFFF00">!  ж не »“ѕбн</font>
+<Time begin="0:15:40.9" end="0:15:46.9" /><clear/><font color="#FFFF00">»Џѕ «“ «жд ° ‘ж—нж гд —ж  —Ш Ш—ѕ  «  ж Ш‘ж— ”Ё— Шде °<br>”Џн Ш—ѕ не гё«г  ж ѕжб  »е ѕ”  »н«—е</font>
+<Time begin="0:15:47.0" end="0:15:49.9" /><clear/><font color="#FFFF00">. «г« е— ћ« —Ё  »«е«‘ гЋб не г— ѕ »—ќж—ѕ Ш—ѕд</font>
+<Time begin="0:15:50.2" end="0:15:53.6" /><clear/><font color="#FFFF00">. гд ‘днѕг Ше енН Ш” «жд —ж ё»жб‘ дгн Ш—ѕ</font>
+<Time begin="0:15:53.7" end="0:15:57.8" /><clear/><font color="#FFFF00">»Џѕ «“ «ндШе енН Ш” «жд —ж дБ–н—Ё </font>
+<Time begin="0:15:57.9" end="0:16:02.6" /><clear/><font color="#FFFF00">»« дЁ— н Ше «“ «нд дБ–н—Ё е ‘ѕд ѕ«‘  »« »е г»«—“е<br>. Ўб»нѕдц »ёне н гѕ—”е е« »е Ш«—‘ «ѕ«ге ѕ«ѕ</font>
+<Time begin="0:16:09.5" end="0:16:15.2" /><clear/><font color="#FFFF00">гд «“ «ндШе д жд” г ёб» ‘«Р—ѕг Ше  жн  «—нШн<br>° г—ѕ —ж дћ«  »ѕг Б‘нгжд ‘ѕг</font>
+<Time begin="0:16:15.2" end="0:16:17.8" /><clear/><font color="#FFFF00">. »д«»—«нд ж«—ѕ ѕдн«н —«е» е« ‘ѕг</font>
+<Time begin="0:16:20.4" end="0:16:25.0" /><clear/><font color="#FFFF00">. гд дгн  ждг »е ‘ж—нж «ћ«“е »ѕг »н‘ — «“ «нд »е Рд«е «ѕ«ге »ѕе</font>
+<Time begin="0:16:25.0" end="0:16:28.5" /><clear/><font color="#FFFF00">. «г« ѕ— Ќ«бц Ќ«÷— ° «жд »н ег « «” </font>
+<Time begin="0:16:28.5" end="0:16:31.7" /><clear/><font color="#FFFF00">. гд ‘Ш ѕ«—г Ш”н »«‘е Ше » жде «ждж г жёЁ Шде</font>
+<Time begin="0:16:31.7" end="0:16:36.1" /><clear/><font color="#FFFF00">. ќж‘Ќ«бг Ше гн ждг »« егНнд Ш”н г»«—“е Шдг</font>
+<Time begin="0:16:54.6" end="0:16:56.4" /><clear/><font color="#FFFF00">Нн Ш«— гн Шдн њ</font>
+<Time begin="0:16:57.0" end="0:16:59.5" /><clear/><font color="#FFFF00">Нн не ѕЁЏе г Ќжб  Ш—ѕе њ</font>
+<Time begin="0:17:43.7" end="0:17:46.9" /><clear/><font color="#FFFF00">... «нд «жбнд »«—нц Ше гжРд —ж «ндћж—н гн »ндг ° «г«</font>
+<Time begin="0:17:46.9" end="0:17:49.9" /><clear/><font color="#FFFF00">. «нд нЏдн «ндШе не Ќ—нЁ Ше «жд гЎг∆д дн”  » жде ‘Ш” ‘ »ѕе</font>
+<Time begin="0:17:57.1" end="0:17:59.0" /><clear/><font color="#FFFF00">. егждЎж— Ше ЁШ—‘ж гн Ш—ѕг ° не ¬»‘«—ц</font>
+<Time begin="0:18:05.5" end="0:18:09.0" /><clear/><font color="#FFFF00">. ‘ж—нж «“ ‘г‘н— «” Ё«ѕе дгн Шде ° «жд «“ Ш«н «” Ё«ѕе гн Шде</font>
+<Time begin="0:18:09.0" end="0:18:11.8" /><clear/><font color="#FFFF00">.  ж «нд Ш‘ж— ° »е‘ гн Рд Ш« Нж Шжѕ«Шн</font>
+<Time begin="0:18:11.8" end="0:18:17.6" /><clear/><font color="#FFFF00">«Ре  ж  ж‘ «” «ѕ ‘н ° гн ждн не дЁ— —ж «“ ѕ«ќб д«»жѕ Шдн<br>. »ѕжд «ндШе не ќ—«‘ ег »е “—е жШб«е ќжѕ‘ »дѕ«“н</font>
+<Time begin="0:18:17.8" end="0:18:20.9" /><clear/><font color="#FFFF00">ќж» ° е— « Ё«ён ег »н«Ё е «Ре ÷—»е »е  дќж—е<br>енН Нн“н  дгн ‘е ° де њ</font>
+<Time begin="0:18:28.6" end="0:18:30.5" /><clear/><font color="#FFFF00">. Џћ» г«ец »“—Рн</font>
+<Time begin="0:18:32.0" end="0:18:33.5" /><clear/><font color="#FFFF00">. гд гн—г не Н—ќн »“дг</font>
+<Time begin="0:18:34.0" end="0:18:36.2" /><clear/><font color="#FFFF00">ен ° н«ѕ  д—Ё е Ше ° де њ</font>
+<Time begin="0:18:37.9" end="0:18:42.9" /><clear/><font color="#FFFF00"> ж ё—«—ц »« гд »н«н ”«гж—«нн —ж Ше »жн Рбе«н ¬Ё «»Р—ѕжд —ж<br>гн ѕе Бнѕ« Шднг ° ѕ—” е њ</font>
+<Time begin="0:18:44.3" end="0:18:45.3" /><clear/><font color="#FFFF00">. гн ѕждг</font>
+<Time begin="0:18:46.0" end="0:18:46.9" /><clear/><font color="#FFFF00">. н«ѕ  д—е</font>
+<Time begin="0:18:48.4" end="0:18:50.1" /><clear/><font color="#FFFF00">. гд ё—«—ц  ж —ж »Ш‘г</font>
+<Time begin="0:18:52.9" end="0:18:56.1" /><clear/><font color="#FFFF00"> ж ѕ«—н Ш«—«н “дг —ж гн Шдн њ</font>
+<Time begin="0:19:13.7" end="0:19:15.6" /><clear/><font color="#FFFF00">. ЁШ— гн Ш—ѕг Ше гн«н</font>
+<Time begin="0:19:16.1" end="0:19:17.6" /><clear/><font color="#FFFF00">. ќж‘Ќ«бг</font>
+<Time begin="0:19:18.3" end="0:19:20.9" /><clear/><font color="#FFFF00">. »Џѕ «“ «ндШе «“ ”Ё—г »—Р‘ г</font>
+<Time begin="0:19:20.9" end="0:19:26.5" /><clear/><font color="#FFFF00">. еге «“ гд гн  —”нѕд ж енН Ш” ёѕ—  гд —ж ё»жб дѕ«‘ </font>
+<Time begin="0:19:27.5" end="0:19:33.1" /><clear/><font color="#FFFF00">Ќ н »« «ндШе гд «“ Ш”«нн Ше »е‘жд гнРд<br>. Ќ—Ёе «н е«н Ш‘ж— ег ёжн  —г</font>
+<Time begin="0:19:34.2" end="0:19:39.7" /><clear/><font color="#FFFF00">. Б” н«ѕ‘жд ѕ«ѕг Шн ж«ёЏ« «“ еге ёжн  —ц</font>
+<Time begin="0:19:40.5" end="0:19:44.0" /><clear/><font color="#FFFF00">. гд »е гёѕге дн«“ дѕ«—г . “жѕ »«‘ »н« ж ‘—жЏ Шд</font>
+<Time begin="0:19:45.1" end="0:19:46.2" /><clear/><font color="#FFFF00">. »«‘е</font>
+<Time begin="0:19:56.9" end="0:19:58.2" /><clear/><font color="#FFFF00">. Џж÷н</font>
+<Time begin="0:19:58.2" end="0:20:00.7" /><clear/><font color="#FFFF00">. »е — «“ «ждн Ше «д ў«— ѕ«‘ г</font>
+<Time begin="0:20:13.7" end="0:20:15.8" /><clear/><font color="#FFFF00">»—« Нн »« гд гн ћдРн њ</font>
+<Time begin="0:20:17.1" end="0:20:19.5" /><clear/><font color="#FFFF00">»—« «ндШе  Ќ ц  Џён»г њ</font>
+<Time begin="0:20:19.5" end="0:20:22.3" /><clear/><font color="#FFFF00">. »е «жд г”∆бе —»Ўн дѕ«—е</font>
+<Time begin="0:20:24.2" end="0:20:27.7" /><clear/><font color="#FFFF00">. «б«д ° ќнбн ѕ«—е »ег ќж‘ гнР–—е . дгн ждг Ш«—н‘ »Шдг</font>
+<Time begin="0:20:28.3" end="0:20:29.2" /><clear/><font color="#FFFF00">. гдг егндЎж—</font>
+<Time begin="0:20:29.9" end="0:20:33.2" /><clear/><font color="#FFFF00">. «г« гд «ндж »е “жѕн  гжг гн Шдг</font>
+<Time begin="0:20:44.8" end="0:20:45.6" /><clear/><font color="#FFFF00">! г”ќ—е «”</font>
+<Time begin="0:20:46.4" end="0:20:47.3" /><clear/><font color="#FFFF00">. џн—ц ггШде</font>
+<Time begin="0:20:50.9" end="0:20:52.0" /><clear/><font color="#FFFF00">! «нд ѕЁЏе</font>
+<Time begin="0:21:21.6" end="0:21:22.7" /><clear/><font color="#FFFF00">. нжШд</font>
+</b>
+</center>
