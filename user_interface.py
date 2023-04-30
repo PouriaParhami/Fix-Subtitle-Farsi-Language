@@ -16,11 +16,17 @@ def get_address():
         result_text.set(file_address)
 
 
+def check_convert_srt(folder_address):
+    if not os.path.exists(folder_address):
+        os.mkdir(folder_address)
+
+
 def change_encoding():
     """Change the .srt or .ass file encoding """
 
     # Absolut path of the program to save the new .srt/.ass file.
-    save_address = os.path.join(os.getcwd(), "convert_srt")
+    save_address = os.path.join(os.path.dirname(__file__), "convert_srt")
+    check_convert_srt(save_address)
     # Absolut path of the .srt or .ass file for convert.
     subtitle_address = result_text.get()
     # If we have the file address then do the encoding.
